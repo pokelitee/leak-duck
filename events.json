@@ -1,49 +1,6 @@
 {
     "Event": [
         {
-            "title": "Sandile Hatch Day",
-            "article_url": "https://leekduck.com/events/sandile-hatch-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-17-sandile-hatch-day-2026/sandile-hatch-day-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance*",
-                    "1/4 Egg Hatch Distance*",
-                    "2× Candy from hatching Eggs*",
-                    "Increased chance of hatching Shiny Sandile",
-                    "Increased chance of receiving 2 km Eggs from spinning PokéStops"
-                ],
-                "features": [
-                    {
-                        "name": "Sandile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Krokorok",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_552_00_shiny.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Krookodile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_553_00_shiny.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Sandile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00_shiny.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-17T11:00:00",
-            "end_time": "2026-10-17T17:00:00",
-            "description": "Sandile Hatch Day features more Sandile hatching from 2 km Eggs and an increased chance of hatching Shiny Sandile!\nThe Sandile Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm local time."
-        },
-        {
             "title": "Fall Marathon: Buddy Trek",
             "article_url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026.jpg",
