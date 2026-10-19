@@ -1,63 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Stufful Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-15/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Stufful",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm759.icon.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-15T18:00:00",
-            "end_time": "2026-10-15T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 15: The featured Pokémon is Stufful and the special bonus is 2× Transfer Candy."
-        },
-        {
-            "title": "Morelull Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Morelull",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-22T18:00:00",
-            "end_time": "2026-10-22T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 22: The featured Pokémon is Morelull and the special bonus is 2× Catch Stardust."
-        },
-        {
-            "title": "Gastly Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Gastly",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-29T18:00:00",
-            "end_time": "2026-10-29T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 29: The featured Pokémon is Gastly and the special bonus is 2× Evolution XP."
-        }
-    ],
     "Event": [
         {
             "title": "Sandile Hatch Day",
@@ -245,43 +186,13 @@
             "category": "Event",
             "details": {
                 "bonuses": [
-                    "Increased Stardust for catching Minior",
+                    "1,000 Stardust for catching Minior",
                     "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day"
                 ],
                 "features": [
                     {
-                        "name": "Minior (Blue Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_011_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
                         "name": "Minior (Green Core)",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_010_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Minior (Indigo Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_012_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Minior (Orange Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_008_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Minior (Red Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_007_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Minior (Violet Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_013_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Minior (Yellow Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_009_uk_n_00000000_f_n.png",
                         "shiny_available": false
                     }
                 ],
@@ -1184,6 +1095,46 @@
             "start_time": "2026-10-28T18:00:00",
             "end_time": "2026-10-28T19:00:00",
             "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Morelull Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Morelull",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-22T18:00:00",
+            "end_time": "2026-10-22T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 22: The featured Pokémon is Morelull and the special bonus is 2× Catch Stardust."
+        },
+        {
+            "title": "Gastly Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Gastly",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-29T18:00:00",
+            "end_time": "2026-10-29T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 29: The featured Pokémon is Gastly and the special bonus is 2× Evolution XP."
         }
     ],
     "Max Battles": [
