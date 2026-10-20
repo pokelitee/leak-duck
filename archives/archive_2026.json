@@ -11138,6 +11138,123 @@
             "start_time": "2026-10-17T11:00:00",
             "end_time": "2026-10-17T17:00:00",
             "description": "Sandile Hatch Day features more Sandile hatching from 2 km Eggs and an increased chance of hatching Shiny Sandile!\nThe Sandile Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm local time."
+        },
+        {
+            "title": "Fall Marathon: Buddy Trek",
+            "article_url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Brambleghast",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm947.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Bramblin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Manectric",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_310_51.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Blitzle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_522_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bramblin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Cacnea",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_331_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Doduo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dwebble",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_557_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Electrike",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Ponyta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm77.fGALARIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Helioptile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hisuian Growlithe",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Nincada",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_290_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ponyta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skarmory",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Stantler",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "bonuses": [
+                    "5× Mega Energy from exploring with Electrike or Manectric as your buddy after Mega Evolving Manectric at least once",
+                    "Incense (excluding Daily Adventure Incense) activated during the event lasts for two hours"
+                ],
+                "shiny": [
+                    {
+                        "name": "Electrike",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00_shiny.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hisuian Growlithe",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.s.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-13T10:00:00",
+            "end_time": "2026-10-19T20:00:00",
+            "description": "Bramblin makes its Pokémon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards.\nThe event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time."
         }
     ],
     "PokéStop Showcase": [
@@ -11835,6 +11952,17 @@
             "start_time": "2026-10-12T06:00:00",
             "end_time": "2026-10-12T21:00:00",
             "description": "Dynamax Rookidee may appear in Max Battles from October 12, 2026 through October 18, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn October 12, 2026, the featured Dynamax Pokémon is Rookidee.\n- Rookidee"
+        },
+        {
+            "title": "Dynamax Sneasel during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-10-19/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-19T06:00:00",
+            "end_time": "2026-10-19T21:00:00",
+            "description": "Dynamax Sneasel may appear in Max Battles from October 19, 2026 through October 25, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn October 19, 2026, the featured Dynamax Pokémon is Sneasel.\n- Sneasel"
         }
     ],
     "GO Pass": [
