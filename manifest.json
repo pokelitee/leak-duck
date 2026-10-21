@@ -16,9 +16,9 @@
             "updated_at": "2026-10-12T17:30:07Z"
         },
         "events.json": {
-            "sha256": "bd63340cb652aa213b06783b2436b990e82c5a97994d2b7e944bd7294f16eff5",
-            "size": 209456,
-            "updated_at": "2026-10-20T20:38:15Z"
+            "sha256": "f8859aa9851f46240fa91caa41defe9f06d438cdcf3c9ee0a524daaa4ca01469",
+            "size": 204400,
+            "updated_at": "2026-10-21T20:11:57Z"
         },
         "raid_bosses.json": {
             "sha256": "8990ef5113e2e0ccb055f137a85d7ac05b9bbd039729e10e67cac60305e29655",

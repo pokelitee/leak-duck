@@ -1,122 +1,84 @@
 {
-    "Event": [
+    "GO Battle League": [
         {
-            "title": "Fall Marathon: Buddy Trek",
-            "article_url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    {
-                        "name": "Brambleghast",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm947.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Bramblin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Manectric",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_310_51.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Blitzle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_522_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Bramblin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Cacnea",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_331_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Doduo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Dwebble",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_557_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Electrike",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Galarian Ponyta",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm77.fGALARIAN.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Helioptile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hisuian Growlithe",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hoppip",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Nincada",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_290_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Ponyta",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Skarmory",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Stantler",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "bonuses": [
-                    "5× Mega Energy from exploring with Electrike or Manectric as your buddy after Mega Evolving Manectric at least once",
-                    "Incense (excluding Daily Adventure Incense) activated during the event lasts for two hours"
-                ],
-                "shiny": [
-                    {
-                        "name": "Electrike",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00_shiny.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hisuian Growlithe",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.s.icon.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-13T10:00:00",
-            "end_time": "2026-10-19T20:00:00",
-            "description": "Bramblin makes its Pokémon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards.\nThe event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time."
+            "title": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1791921600,
+            "end_time": 1792526400,
+            "description": "The Great League, Ultra League: Mega Edition, and Little Cup will run from October 13, 2026, at 1:00 p.m. to October 20, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 500 CP to enter.\n- Only Pokémon that are able to evolve and have not evolved even once are eligible."
         },
+        {
+            "title": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1792526400,
+            "end_time": 1793131200,
+            "description": "The Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition will run from October 20, 2026, at 1:00 p.m. to October 27, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
+        },
+        {
+            "title": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1793134800,
+            "end_time": 1793739600,
+            "description": "The Master League and Mega Halloween Cup: Great League Edition will run from October 27, 2026, at 1:00 p.m. to November 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Only Bug-, Poison-, Ghost-, Dark-, and Fairy-type Pokémon are eligible."
+        },
+        {
+            "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1793739600,
+            "end_time": 1794344400,
+            "description": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from November 3, 2026, at 1:00 p.m. to November 10, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        },
+        {
+            "title": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1794344400,
+            "end_time": 1794949200,
+            "description": "The Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup will run from November 10, 2026, at 1:00 p.m. to November 17, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition.\nThe following Pokémon will not be allowed.\n- Chansey\n- Snorlax\n- Furret\n- Wobbuffet\n- Galarian Corsola\n- Kingdra\n- Medicham\n- Altaria\n- Dusclops\n- Jellicent\n- Jellicent\n- Araquanid\n- Oranguru\n- Annihilape\n- Clodsire"
+        },
+        {
+            "title": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1795035600,
+            "end_time": 1795640400,
+            "description": "The Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup will run from November 18, 2026, at 1:00 p.m. to November 25, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition.\nThe following Pokémon will not be allowed.\n- Chansey\n- Snorlax\n- Furret\n- Wobbuffet\n- Galarian Corsola\n- Kingdra\n- Medicham\n- Altaria\n- Dusclops\n- Jellicent\n- Jellicent\n- Araquanid\n- Oranguru\n- Annihilape\n- Clodsire"
+        },
+        {
+            "title": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1795554000,
+            "end_time": 1796158800,
+            "description": "The Master League and Mega Catch Cup: Great League Edition will run from November 24, 2026, at 1:00 p.m. to December 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Only Pokémon caught during the Twilight Trails Season are eligible.*\n- Mythical Pokémon are not eligible.\n*Pokémon must be caught between September 8, 2026, at 1:00 p.m. and December 1, 2026, at 1:00 p.m. PST."
+        }
+    ],
+    "Event": [
         {
             "title": "Pokémon TCG: 30th Celebration",
             "article_url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
@@ -992,153 +954,6 @@
             "description": "Explore by starlight during the Perseids meteor shower for a chance to encounter Minior in Pokémon GO!\nThis Minior Shower runs from August 10, 2027 at 5:00 p.m. to August 15, 2027 at 11:59 p.m. local time."
         }
     ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Sneasel during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-10-19/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-19T06:00:00",
-            "end_time": "2026-10-19T21:00:00",
-            "description": "Dynamax Sneasel may appear in Max Battles from October 19, 2026 through October 25, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn October 19, 2026, the featured Dynamax Pokémon is Sneasel.\n- Sneasel"
-        },
-        {
-            "title": "Dynamax Sableye during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-10-26/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-26T06:00:00",
-            "end_time": "2026-10-26T21:00:00",
-            "description": "Dynamax Sableye may appear in Max Battles from October 26, 2026 through November 1, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn October 26, 2026, the featured Dynamax Pokémon is Sableye.\n- Sableye"
-        },
-        {
-            "title": "Dynamax Machop during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-02/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-02T06:00:00",
-            "end_time": "2026-11-02T21:00:00",
-            "description": "Dynamax Machop may appear in Max Battles from November 2, 2026 through November 8, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 2, 2026, the featured Dynamax Pokémon is Machop.\n- Machop"
-        },
-        {
-            "title": "Max Monday: Pokémon to be announced",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-16T06:00:00",
-            "end_time": "2026-11-16T21:00:00",
-            "description": "The featured Dynamax Pokémon for November 16–23, 2026 has not been announced. Stay tuned for more details.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nThe featured Pokémon for Max Monday on November 16, 2026 will be announced later."
-        },
-        {
-            "title": "Dynamax Espurr during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-23T06:00:00",
-            "end_time": "2026-11-23T21:00:00",
-            "description": "Dynamax Espurr may appear in Max Battles from November 23, 2026 through November 29, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 23, 2026, the featured Dynamax Pokémon is Espurr.\n- Espurr"
-        },
-        {
-            "title": "Dynamax Cryogonal during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-30T06:00:00",
-            "end_time": "2026-11-30T21:00:00",
-            "description": "Dynamax Cryogonal may appear in Max Battles from November 30, 2026 through December 6, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 30, 2026, the featured Dynamax Pokémon is Cryogonal.\n- Cryogonal"
-        }
-    ],
-    "GO Battle League": [
-        {
-            "title": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1791921600,
-            "end_time": 1792526400,
-            "description": "The Great League, Ultra League: Mega Edition, and Little Cup will run from October 13, 2026, at 1:00 p.m. to October 20, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 500 CP to enter.\n- Only Pokémon that are able to evolve and have not evolved even once are eligible."
-        },
-        {
-            "title": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1792526400,
-            "end_time": 1793131200,
-            "description": "The Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition will run from October 20, 2026, at 1:00 p.m. to October 27, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
-        },
-        {
-            "title": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1793134800,
-            "end_time": 1793739600,
-            "description": "The Master League and Mega Halloween Cup: Great League Edition will run from October 27, 2026, at 1:00 p.m. to November 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Only Bug-, Poison-, Ghost-, Dark-, and Fairy-type Pokémon are eligible."
-        },
-        {
-            "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1793739600,
-            "end_time": 1794344400,
-            "description": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from November 3, 2026, at 1:00 p.m. to November 10, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        },
-        {
-            "title": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1794344400,
-            "end_time": 1794949200,
-            "description": "The Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup will run from November 10, 2026, at 1:00 p.m. to November 17, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition.\nThe following Pokémon will not be allowed.\n- Chansey\n- Snorlax\n- Furret\n- Wobbuffet\n- Galarian Corsola\n- Kingdra\n- Medicham\n- Altaria\n- Dusclops\n- Jellicent\n- Jellicent\n- Araquanid\n- Oranguru\n- Annihilape\n- Clodsire"
-        },
-        {
-            "title": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1795035600,
-            "end_time": 1795640400,
-            "description": "The Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup will run from November 18, 2026, at 1:00 p.m. to November 25, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition.\nThe following Pokémon will not be allowed.\n- Chansey\n- Snorlax\n- Furret\n- Wobbuffet\n- Galarian Corsola\n- Kingdra\n- Medicham\n- Altaria\n- Dusclops\n- Jellicent\n- Jellicent\n- Araquanid\n- Oranguru\n- Annihilape\n- Clodsire"
-        },
-        {
-            "title": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1795554000,
-            "end_time": 1796158800,
-            "description": "The Master League and Mega Catch Cup: Great League Edition will run from November 24, 2026, at 1:00 p.m. to December 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Only Pokémon caught during the Twilight Trails Season are eligible.*\n- Mythical Pokémon are not eligible.\n*Pokémon must be caught between September 8, 2026, at 1:00 p.m. and December 1, 2026, at 1:00 p.m. PST."
-        }
-    ],
     "Raid Battles": [
         {
             "title": "Dialga in 5-star Raid Battles",
@@ -1987,6 +1802,63 @@
             "start_time": "2026-10-24T10:00:00",
             "end_time": "2026-10-25T18:00:00",
             "description": "Boston City Safari will run globally for current ticket holders on October 24–25, 2026, from 10 am to 6 pm local time daily. Keep your ticket to participate; no action is needed.\nOfficial announcement"
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Sableye during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-10-26/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-26T06:00:00",
+            "end_time": "2026-10-26T21:00:00",
+            "description": "Dynamax Sableye may appear in Max Battles from October 26, 2026 through November 1, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn October 26, 2026, the featured Dynamax Pokémon is Sableye.\n- Sableye"
+        },
+        {
+            "title": "Dynamax Machop during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-02/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-02T06:00:00",
+            "end_time": "2026-11-02T21:00:00",
+            "description": "Dynamax Machop may appear in Max Battles from November 2, 2026 through November 8, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 2, 2026, the featured Dynamax Pokémon is Machop.\n- Machop"
+        },
+        {
+            "title": "Max Monday: Pokémon to be announced",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-16T06:00:00",
+            "end_time": "2026-11-16T21:00:00",
+            "description": "The featured Dynamax Pokémon for November 16–23, 2026 has not been announced. Stay tuned for more details.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nThe featured Pokémon for Max Monday on November 16, 2026 will be announced later."
+        },
+        {
+            "title": "Dynamax Espurr during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-23T06:00:00",
+            "end_time": "2026-11-23T21:00:00",
+            "description": "Dynamax Espurr may appear in Max Battles from November 23, 2026 through November 29, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 23, 2026, the featured Dynamax Pokémon is Espurr.\n- Espurr"
+        },
+        {
+            "title": "Dynamax Cryogonal during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-30T06:00:00",
+            "end_time": "2026-11-30T21:00:00",
+            "description": "Dynamax Cryogonal may appear in Max Battles from November 30, 2026 through December 6, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 30, 2026, the featured Dynamax Pokémon is Cryogonal.\n- Cryogonal"
         }
     ],
     "Raid Day": [
@@ -3570,15 +3442,57 @@
     ],
     "Community Day": [
         {
-            "title": "November Community Day",
+            "title": "Pawniard Community Day",
             "article_url": "https://leekduck.com/events/november-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-21-november-communityday2026/pawniard-november-cd-2026.jpg",
             "category": "Community Day",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1-hour Lures*",
+                    "1/4 Egg Hatch Distance",
+                    "2x Catch Candy",
+                    "2x Chance for Trainers level 31 and up to receive Candy XL from catching Pokémon",
+                    "3-hour Incense",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of two for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    {
+                        "name": "Pawniard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Pawniard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Bisharp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_625_00_shiny.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Kingambit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm983.s.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pawniard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00_shiny.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-11-21T14:00:00",
             "end_time": "2026-11-21T17:00:00",
-            "description": "The November Community Day event will take place on November 21, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "Pawniard, the Sharp Blade Pokémon, will be featured during November Community Day!\nThe event takes place on Saturday, November 21, 2026, from 2:00 p.m. to 5:00 p.m. local time."
         }
     ],
     "Season": [
