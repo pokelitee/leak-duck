@@ -1,24 +1,213 @@
 {
-    "Event": [
+    "Raid Hour": [
         {
-            "title": "Pokémon TCG: 30th Celebration",
-            "article_url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-27-pokemon-tcg-30th-celebration/pokemon-tcg-30th-celebration.jpg",
-            "category": "Event",
+            "title": "Palkia Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261021/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-21T18:00:00",
+            "end_time": "2026-10-21T19:00:00",
+            "description": "A Raid Hour featuring Palkia is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        },
+        {
+            "title": "Giratina (Origin Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261028/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-28T18:00:00",
+            "end_time": "2026-10-28T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        },
+        {
+            "title": "Giratina (Altered Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261104/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-04T18:00:00",
+            "end_time": "2026-11-04T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Altered Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        },
+        {
+            "title": "Cresselia and Darkrai Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261118/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-18T18:00:00",
+            "end_time": "2026-11-18T19:00:00",
+            "description": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        },
+        {
+            "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261125/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-25T18:00:00",
+            "end_time": "2026-11-25T19:00:00",
+            "description": "A Raid Hour featuring Deoxys (Normal, Defense, Attack, and Speed Formes) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Morelull Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
             "details": {
-                "raids": [
+                "spawns": [
                     {
-                        "name": "Mega Gengar",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51.png",
+                        "name": "Morelull",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
                         "shiny_available": true
                     }
                 ]
             },
             "is_local_time": true,
-            "start_time": "2026-09-27T10:00:00",
-            "end_time": "2026-10-20T22:00:00",
-            "description": "Celebrate the release of Pokémon TCG: 30th Celebration!\nVisit participating Target, Best Buy, and GameStop locations in the United States for Mega Raids and Timed Research.\nThe event runs from September 27, 2026, at 10:00 a.m. to October 20, 2026, at 10:00 p.m. local time."
+            "start_time": "2026-10-22T18:00:00",
+            "end_time": "2026-10-22T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 22: The featured Pokémon is Morelull and the special bonus is 2× Catch Stardust."
         },
+        {
+            "title": "Gastly Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Gastly",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-29T18:00:00",
+            "end_time": "2026-10-29T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 29: The featured Pokémon is Gastly and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Teddiursa wearing a witch hat Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-11-05/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Teddiursa wearing a witch hat",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm216.cHALLOWEEN_2025.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-05T18:00:00",
+            "end_time": "2026-11-05T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nNovember 5: The featured Pokémon is Teddiursa wearing a witch hat and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Noibat Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Noibat",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-26T18:00:00",
+            "end_time": "2026-11-26T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nNovember 26: The featured Pokémon is Noibat and the special bonus is 2× Catch Candy."
+        }
+    ],
+    "Max Battles": [
+        {
+            "title": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+            "article_url": "https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-24-dynamax-uxie-mesprit-azelf-max-battle-day-2026/dynamax-uxie-mesprit-azelf-max-battle-day.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles**",
+                    "2× Max Particles from exploring*",
+                    "2× XP from Max Battles",
+                    "8× Max Particles from Power Spots",
+                    "Additional Power Spots will be active",
+                    "All Power Spots will host Dynamax Battles",
+                    "From October 23 at 5:00 p.m. to October 24 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently",
+                    "Up to three Special Trades for the day"
+                ],
+                "features": [
+                    {
+                        "name": "Azelf",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mesprit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Uxie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Azelf",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00_shiny.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mesprit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00_shiny.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Uxie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00_shiny.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-24T14:00:00",
+            "end_time": "2026-10-24T17:00:00",
+            "description": "The Dynamax Uxie, Mesprit, and Azelf Max Battle Day event will take place on October 24, 2026 from 2 pm to 5 pm local time."
+        }
+    ],
+    "Twitch Drops": [
+        {
+            "title": "Twitch Drops for Pokémon Night Out 2026",
+            "article_url": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg",
+            "category": "Twitch Drops",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1792895400,
+            "end_time": 1792911540,
+            "description": "Celebrate Pokémon Night Out at Intuit Dome in Los Angeles with a Twitch broadcast that Trainers around the world can watch.\nTune in to Twitch.tv/Pokemon on Saturday, October 24, 2026, starting at 7:30 p.m. PDT (10:30 p.m. EDT) for 30 minutes to earn a code for exclusive Timed Research. Complete the research to receive a Pokémon Night Out baseball jersey for your avatar.\nThe broadcast end time and the code and Timed Research expiration dates have not been announced."
+        }
+    ],
+    "Event": [
         {
             "title": "Pokémon Night Out 2026 - Los Angeles",
             "article_url": "https://leekduck.com/events/pokemon-night-out-los-angeles-2026/",
@@ -875,64 +1064,347 @@
             "description": "Explore by starlight during the Perseids meteor shower for a chance to encounter Minior in Pokémon GO!\nThis Minior Shower runs from August 10, 2027 at 5:00 p.m. to August 15, 2027 at 11:59 p.m. local time."
         }
     ],
-    "Raid Battles": [
+    "City Safari": [
         {
-            "title": "Dialga in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
-            "category": "Raid Battles",
+            "title": "Pokémon GO City Safari: Boston (Rescheduled)",
+            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/city-safari-boston-2026.jpg",
+            "category": "City Safari",
             "details": {
-                "raids": [
+                "bonuses": [
+                    "Eight-hour Party Play",
+                    "Four-hour Lure Modules (excluding Golden Lure Modules)",
+                    "Half Stardust cost for trades",
+                    "Increased Shiny chance",
+                    "Tiny Compass buddy souvenir",
+                    "Up to five Special Trades"
+                ],
+                "features": [
                     {
-                        "name": "Dialga",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png",
+                        "name": "Explorer Eevee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.cMay_2023.icon.png",
                         "shiny_available": true
                     }
                 ],
-                "shiny": [
+                "spawns": [
                     {
-                        "name": "Dialga",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00_shiny.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-14T06:00:00",
-            "end_time": "2026-10-20T22:00:00",
-            "description": "Dialga will be in five-star raid battles from October 14, 2026 to October 20, 2026.\nThere will also be a Raid Hour featuring Dialga from 6:00 p.m. to 7:00 p.m. local time on October 14."
-        },
-        {
-            "title": "Mega Dragonite in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Dragonite",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Dragonite",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_149_00_shiny.png",
+                        "name": "Abra",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
                         "shiny_available": true
                     },
                     {
-                        "name": "Mega Dragonite",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.s.icon.png",
+                        "name": "Baltoy",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Binacle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Buizel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Clauncher",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flamigo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Gothita",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hawlucha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Jigglypuff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Komala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Lillipup",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mareep",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Marill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Miltank",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mudbray",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Orange Flower Flabébé",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Oranguru",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Petilil",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Slowpoke",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Stantler",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Totodile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown B",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown L",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown M",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown R",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wingull",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Yamask",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "eggs": [
+                    {
+                        "name": "Hawlucha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Komala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mudbray",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Orange Flower Flabébé",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "research": [
+                    {
+                        "name": "Hawlucha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Komala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mudbray",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Orange Flower Flabébé",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
                         "shiny_available": true
                     }
                 ]
             },
             "is_local_time": true,
-            "start_time": "2026-10-14T06:00:00",
-            "end_time": "2026-10-20T22:00:00",
-            "description": "Mega Dragonite will be in Mega Raids from October 14, 2026 at 6 am to October 20, 2026 at 10 pm local time."
+            "start_time": "2026-10-24T10:00:00",
+            "end_time": "2026-10-25T18:00:00",
+            "description": "Boston City Safari will run globally for current ticket holders on October 24–25, 2026, from 10 am to 6 pm local time daily. Keep your ticket to participate; no action is needed.\nOfficial announcement"
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Sableye during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-10-26/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-26T06:00:00",
+            "end_time": "2026-10-26T21:00:00",
+            "description": "Dynamax Sableye may appear in Max Battles from October 26, 2026 through November 1, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn October 26, 2026, the featured Dynamax Pokémon is Sableye.\n- Sableye"
         },
+        {
+            "title": "Dynamax Machop during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-02/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-02T06:00:00",
+            "end_time": "2026-11-02T21:00:00",
+            "description": "Dynamax Machop may appear in Max Battles from November 2, 2026 through November 8, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 2, 2026, the featured Dynamax Pokémon is Machop.\n- Machop"
+        },
+        {
+            "title": "Max Monday: Pokémon to be announced",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-16T06:00:00",
+            "end_time": "2026-11-16T21:00:00",
+            "description": "The featured Dynamax Pokémon for November 16–23, 2026 has not been announced. Stay tuned for more details.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nThe featured Pokémon for Max Monday on November 16, 2026 will be announced later."
+        },
+        {
+            "title": "Dynamax Espurr during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-23T06:00:00",
+            "end_time": "2026-11-23T21:00:00",
+            "description": "Dynamax Espurr may appear in Max Battles from November 23, 2026 through November 29, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 23, 2026, the featured Dynamax Pokémon is Espurr.\n- Espurr"
+        },
+        {
+            "title": "Dynamax Cryogonal during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-30T06:00:00",
+            "end_time": "2026-11-30T21:00:00",
+            "description": "Dynamax Cryogonal may appear in Max Battles from November 30, 2026 through December 6, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 30, 2026, the featured Dynamax Pokémon is Cryogonal.\n- Cryogonal"
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1792526400,
+            "end_time": 1793131200,
+            "description": "The Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition will run from October 20, 2026, at 1:00 p.m. to October 27, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
+        },
+        {
+            "title": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1793134800,
+            "end_time": 1793739600,
+            "description": "The Master League and Mega Halloween Cup: Great League Edition will run from October 27, 2026, at 1:00 p.m. to November 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Only Bug-, Poison-, Ghost-, Dark-, and Fairy-type Pokémon are eligible."
+        },
+        {
+            "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1793739600,
+            "end_time": 1794344400,
+            "description": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from November 3, 2026, at 1:00 p.m. to November 10, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        },
+        {
+            "title": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1794344400,
+            "end_time": 1794949200,
+            "description": "The Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup will run from November 10, 2026, at 1:00 p.m. to November 17, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition.\nThe following Pokémon will not be allowed.\n- Chansey\n- Snorlax\n- Furret\n- Wobbuffet\n- Galarian Corsola\n- Kingdra\n- Medicham\n- Altaria\n- Dusclops\n- Jellicent\n- Jellicent\n- Araquanid\n- Oranguru\n- Annihilape\n- Clodsire"
+        },
+        {
+            "title": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1795035600,
+            "end_time": 1795640400,
+            "description": "The Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup will run from November 18, 2026, at 1:00 p.m. to November 25, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition.\nThe following Pokémon will not be allowed.\n- Chansey\n- Snorlax\n- Furret\n- Wobbuffet\n- Galarian Corsola\n- Kingdra\n- Medicham\n- Altaria\n- Dusclops\n- Jellicent\n- Jellicent\n- Araquanid\n- Oranguru\n- Annihilape\n- Clodsire"
+        },
+        {
+            "title": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1795554000,
+            "end_time": 1796158800,
+            "description": "The Master League and Mega Catch Cup: Great League Edition will run from November 24, 2026, at 1:00 p.m. to December 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Only Pokémon caught during the Twilight Trails Season are eligible.*\n- Mythical Pokémon are not eligible.\n*Pokémon must be caught between September 8, 2026, at 1:00 p.m. and December 1, 2026, at 1:00 p.m. PST."
+        }
+    ],
+    "Raid Battles": [
         {
             "title": "Mega Charizard X and Mega Charizard Y in Mega Raids",
             "article_url": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/",
@@ -1300,554 +1772,6 @@
             "start_time": "2026-11-25T06:00:00",
             "end_time": "2026-12-01T22:00:00",
             "description": "Mega Metagross will be in Mega Raids from November 25, 2026 at 6 am to December 1, 2026 at 10 pm local time.\nRaid bosses change at 6:00 a.m. local time."
-        }
-    ],
-    "Raid Hour": [
-        {
-            "title": "Palkia Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261021/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-21T18:00:00",
-            "end_time": "2026-10-21T19:00:00",
-            "description": "A Raid Hour featuring Palkia is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        },
-        {
-            "title": "Giratina (Origin Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261028/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-28T18:00:00",
-            "end_time": "2026-10-28T19:00:00",
-            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        },
-        {
-            "title": "Giratina (Altered Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261104/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-04T18:00:00",
-            "end_time": "2026-11-04T19:00:00",
-            "description": "A Raid Hour featuring Giratina (Altered Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        },
-        {
-            "title": "Cresselia and Darkrai Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261118/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-18T18:00:00",
-            "end_time": "2026-11-18T19:00:00",
-            "description": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        },
-        {
-            "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261125/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-25T18:00:00",
-            "end_time": "2026-11-25T19:00:00",
-            "description": "A Raid Hour featuring Deoxys (Normal, Defense, Attack, and Speed Formes) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        }
-    ],
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Morelull Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Morelull",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-22T18:00:00",
-            "end_time": "2026-10-22T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 22: The featured Pokémon is Morelull and the special bonus is 2× Catch Stardust."
-        },
-        {
-            "title": "Gastly Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Gastly",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-29T18:00:00",
-            "end_time": "2026-10-29T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 29: The featured Pokémon is Gastly and the special bonus is 2× Evolution XP."
-        },
-        {
-            "title": "Teddiursa wearing a witch hat Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-11-05/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Teddiursa wearing a witch hat",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm216.cHALLOWEEN_2025.icon.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-11-05T18:00:00",
-            "end_time": "2026-11-05T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nNovember 5: The featured Pokémon is Teddiursa wearing a witch hat and the special bonus is 2× Evolution XP."
-        },
-        {
-            "title": "Noibat Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Noibat",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-11-26T18:00:00",
-            "end_time": "2026-11-26T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nNovember 26: The featured Pokémon is Noibat and the special bonus is 2× Catch Candy."
-        }
-    ],
-    "Max Battles": [
-        {
-            "title": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-            "article_url": "https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-24-dynamax-uxie-mesprit-azelf-max-battle-day-2026/dynamax-uxie-mesprit-azelf-max-battle-day.jpg",
-            "category": "Max Battles",
-            "details": {
-                "bonuses": [
-                    "1/4 Adventuring distance to receive Max Particles**",
-                    "2× Max Particles from exploring*",
-                    "2× XP from Max Battles",
-                    "8× Max Particles from Power Spots",
-                    "Additional Power Spots will be active",
-                    "All Power Spots will host Dynamax Battles",
-                    "From October 23 at 5:00 p.m. to October 24 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
-                    "Max Particle collection limit increased to 1,600",
-                    "Power Spots will refresh more frequently",
-                    "Up to three Special Trades for the day"
-                ],
-                "features": [
-                    {
-                        "name": "Azelf",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mesprit",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Uxie",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Azelf",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00_shiny.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mesprit",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00_shiny.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Uxie",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00_shiny.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-24T14:00:00",
-            "end_time": "2026-10-24T17:00:00",
-            "description": "The Dynamax Uxie, Mesprit, and Azelf Max Battle Day event will take place on October 24, 2026 from 2 pm to 5 pm local time."
-        }
-    ],
-    "Twitch Drops": [
-        {
-            "title": "Twitch Drops for Pokémon Night Out 2026",
-            "article_url": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg",
-            "category": "Twitch Drops",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1792895400,
-            "end_time": 1792911540,
-            "description": "Celebrate Pokémon Night Out at Intuit Dome in Los Angeles with a Twitch broadcast that Trainers around the world can watch.\nTune in to Twitch.tv/Pokemon on Saturday, October 24, 2026, starting at 7:30 p.m. PDT (10:30 p.m. EDT) for 30 minutes to earn a code for exclusive Timed Research. Complete the research to receive a Pokémon Night Out baseball jersey for your avatar.\nThe broadcast end time and the code and Timed Research expiration dates have not been announced."
-        }
-    ],
-    "City Safari": [
-        {
-            "title": "Pokémon GO City Safari: Boston (Rescheduled)",
-            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/city-safari-boston-2026.jpg",
-            "category": "City Safari",
-            "details": {
-                "bonuses": [
-                    "Eight-hour Party Play",
-                    "Four-hour Lure Modules (excluding Golden Lure Modules)",
-                    "Half Stardust cost for trades",
-                    "Increased Shiny chance",
-                    "Tiny Compass buddy souvenir",
-                    "Up to five Special Trades"
-                ],
-                "features": [
-                    {
-                        "name": "Explorer Eevee",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.cMay_2023.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Abra",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Baltoy",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Binacle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Buizel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Clauncher",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flamigo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Gothita",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hawlucha",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Hoppip",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Jigglypuff",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Komala",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Lillipup",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mareep",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Marill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Miltank",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mudbray",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Orange Flower Flabébé",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Oranguru",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Petilil",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Slowpoke",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Stantler",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Totodile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Unown B",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Unown L",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Unown M",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Unown R",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Wingull",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Yamask",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "eggs": [
-                    {
-                        "name": "Hawlucha",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Komala",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mudbray",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Orange Flower Flabébé",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "research": [
-                    {
-                        "name": "Hawlucha",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Komala",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mudbray",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Orange Flower Flabébé",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-24T10:00:00",
-            "end_time": "2026-10-25T18:00:00",
-            "description": "Boston City Safari will run globally for current ticket holders on October 24–25, 2026, from 10 am to 6 pm local time daily. Keep your ticket to participate; no action is needed.\nOfficial announcement"
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Sableye during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-10-26/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-26T06:00:00",
-            "end_time": "2026-10-26T21:00:00",
-            "description": "Dynamax Sableye may appear in Max Battles from October 26, 2026 through November 1, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn October 26, 2026, the featured Dynamax Pokémon is Sableye.\n- Sableye"
-        },
-        {
-            "title": "Dynamax Machop during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-02/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-02T06:00:00",
-            "end_time": "2026-11-02T21:00:00",
-            "description": "Dynamax Machop may appear in Max Battles from November 2, 2026 through November 8, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 2, 2026, the featured Dynamax Pokémon is Machop.\n- Machop"
-        },
-        {
-            "title": "Max Monday: Pokémon to be announced",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-16T06:00:00",
-            "end_time": "2026-11-16T21:00:00",
-            "description": "The featured Dynamax Pokémon for November 16–23, 2026 has not been announced. Stay tuned for more details.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nThe featured Pokémon for Max Monday on November 16, 2026 will be announced later."
-        },
-        {
-            "title": "Dynamax Espurr during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-23T06:00:00",
-            "end_time": "2026-11-23T21:00:00",
-            "description": "Dynamax Espurr may appear in Max Battles from November 23, 2026 through November 29, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 23, 2026, the featured Dynamax Pokémon is Espurr.\n- Espurr"
-        },
-        {
-            "title": "Dynamax Cryogonal during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-30T06:00:00",
-            "end_time": "2026-11-30T21:00:00",
-            "description": "Dynamax Cryogonal may appear in Max Battles from November 30, 2026 through December 6, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 30, 2026, the featured Dynamax Pokémon is Cryogonal.\n- Cryogonal"
-        }
-    ],
-    "GO Battle League": [
-        {
-            "title": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1792526400,
-            "end_time": 1793131200,
-            "description": "The Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition will run from October 20, 2026, at 1:00 p.m. to October 27, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
-        },
-        {
-            "title": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1793134800,
-            "end_time": 1793739600,
-            "description": "The Master League and Mega Halloween Cup: Great League Edition will run from October 27, 2026, at 1:00 p.m. to November 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Only Bug-, Poison-, Ghost-, Dark-, and Fairy-type Pokémon are eligible."
-        },
-        {
-            "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1793739600,
-            "end_time": 1794344400,
-            "description": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from November 3, 2026, at 1:00 p.m. to November 10, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        },
-        {
-            "title": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1794344400,
-            "end_time": 1794949200,
-            "description": "The Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup will run from November 10, 2026, at 1:00 p.m. to November 17, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition.\nThe following Pokémon will not be allowed.\n- Chansey\n- Snorlax\n- Furret\n- Wobbuffet\n- Galarian Corsola\n- Kingdra\n- Medicham\n- Altaria\n- Dusclops\n- Jellicent\n- Jellicent\n- Araquanid\n- Oranguru\n- Annihilape\n- Clodsire"
-        },
-        {
-            "title": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1795035600,
-            "end_time": 1795640400,
-            "description": "The Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup will run from November 18, 2026, at 1:00 p.m. to November 25, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 1,500 CP to enter.\n- Fire-, Dark-, Steel-, and Fairy-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Mega-Evolved Pokémon are not eligible for the GO Battle League version of this Cup. However, Mega-Evolved Pokémon will be eligible for the Pokémon Latin America International Championships 2026 in-person competition.\nThe following Pokémon will not be allowed.\n- Chansey\n- Snorlax\n- Furret\n- Wobbuffet\n- Galarian Corsola\n- Kingdra\n- Medicham\n- Altaria\n- Dusclops\n- Jellicent\n- Jellicent\n- Araquanid\n- Oranguru\n- Annihilape\n- Clodsire"
-        },
-        {
-            "title": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
-            "article_url": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1795554000,
-            "end_time": 1796158800,
-            "description": "The Master League and Mega Catch Cup: Great League Edition will run from November 24, 2026, at 1:00 p.m. to December 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Only Pokémon caught during the Twilight Trails Season are eligible.*\n- Mythical Pokémon are not eligible.\n*Pokémon must be caught between September 8, 2026, at 1:00 p.m. and December 1, 2026, at 1:00 p.m. PST."
         }
     ],
     "Raid Day": [
