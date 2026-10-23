@@ -13217,6 +13217,25 @@
             "start_time": "2026-10-15T18:00:00",
             "end_time": "2026-10-15T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 15: The featured Pokémon is Stufful and the special bonus is 2× Transfer Candy."
+        },
+        {
+            "title": "Morelull Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Morelull",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-22T18:00:00",
+            "end_time": "2026-10-22T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 22: The featured Pokémon is Morelull and the special bonus is 2× Catch Stardust."
         }
     ],
     "Raid Hour": [
