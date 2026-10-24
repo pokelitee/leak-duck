@@ -1192,28 +1192,6 @@
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
                         "shiny_available": true
                     }
-                ],
-                "research": [
-                    {
-                        "name": "Hawlucha",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Komala",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mudbray",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Orange Flower Flabébé",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
-                        "shiny_available": true
-                    }
                 ]
             },
             "is_local_time": true,
