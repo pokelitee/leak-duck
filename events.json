@@ -1,61 +1,4 @@
 {
-    "Raid Hour": [
-        {
-            "title": "Palkia Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261021/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-21T18:00:00",
-            "end_time": "2026-10-21T19:00:00",
-            "description": "A Raid Hour featuring Palkia is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        },
-        {
-            "title": "Giratina (Origin Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261028/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-28T18:00:00",
-            "end_time": "2026-10-28T19:00:00",
-            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        },
-        {
-            "title": "Giratina (Altered Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261104/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-04T18:00:00",
-            "end_time": "2026-11-04T19:00:00",
-            "description": "A Raid Hour featuring Giratina (Altered Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        },
-        {
-            "title": "Cresselia and Darkrai Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261118/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-18T18:00:00",
-            "end_time": "2026-11-18T19:00:00",
-            "description": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        },
-        {
-            "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261125/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-25T18:00:00",
-            "end_time": "2026-11-25T19:00:00",
-            "description": "A Raid Hour featuring Deoxys (Normal, Defense, Attack, and Speed Formes) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        }
-    ],
     "Pokémon Spotlight Hour": [
         {
             "title": "Morelull Spotlight Hour",
@@ -1772,6 +1715,52 @@
             "start_time": "2026-11-25T06:00:00",
             "end_time": "2026-12-01T22:00:00",
             "description": "Mega Metagross will be in Mega Raids from November 25, 2026 at 6 am to December 1, 2026 at 10 pm local time.\nRaid bosses change at 6:00 a.m. local time."
+        }
+    ],
+    "Raid Hour": [
+        {
+            "title": "Giratina (Origin Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261028/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-28T18:00:00",
+            "end_time": "2026-10-28T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        },
+        {
+            "title": "Giratina (Altered Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261104/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-04T18:00:00",
+            "end_time": "2026-11-04T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Altered Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        },
+        {
+            "title": "Cresselia and Darkrai Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261118/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-18T18:00:00",
+            "end_time": "2026-11-18T19:00:00",
+            "description": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        },
+        {
+            "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261125/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-25T18:00:00",
+            "end_time": "2026-11-25T19:00:00",
+            "description": "A Raid Hour featuring Deoxys (Normal, Defense, Attack, and Speed Formes) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
         }
     ],
     "Raid Day": [
