@@ -14642,6 +14642,64 @@
             "start_time": "2026-10-03T14:00:00",
             "end_time": "2026-10-03T17:00:00",
             "description": "The Gigantamax Cinderace Max Battle Day event will take place on October 3, 2026 from 2 pm to 5 pm local time."
+        },
+        {
+            "title": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+            "article_url": "https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-24-dynamax-uxie-mesprit-azelf-max-battle-day-2026/dynamax-uxie-mesprit-azelf-max-battle-day.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles**",
+                    "2× Max Particles from exploring*",
+                    "2× XP from Max Battles",
+                    "8× Max Particles from Power Spots",
+                    "Additional Power Spots will be active",
+                    "All Power Spots will host Dynamax Battles",
+                    "From October 23 at 5:00 p.m. to October 24 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently",
+                    "Up to three Special Trades for the day"
+                ],
+                "features": [
+                    {
+                        "name": "Azelf",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mesprit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Uxie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Azelf",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00_shiny.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mesprit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00_shiny.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Uxie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00_shiny.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-24T14:00:00",
+            "end_time": "2026-10-24T17:00:00",
+            "description": "The Dynamax Uxie, Mesprit, and Azelf Max Battle Day event will take place on October 24, 2026 from 2 pm to 5 pm local time."
         }
     ],
     "Research": [
