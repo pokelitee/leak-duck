@@ -11331,6 +11331,132 @@
             "start_time": "2026-09-27T10:00:00",
             "end_time": "2026-10-20T22:00:00",
             "description": "Celebrate the release of Pokémon TCG: 30th Celebration!\nVisit participating Target, Best Buy, and GameStop locations in the United States for Mega Raids and Timed Research.\nThe event runs from September 27, 2026, at 10:00 a.m. to October 20, 2026, at 10:00 p.m. local time."
+        },
+        {
+            "title": "Pokémon Night Out 2026 - Los Angeles",
+            "article_url": "https://leekduck.com/events/pokemon-night-out-los-angeles-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemon-night-out-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Lure Modules activated during the event last for one hour, excluding Golden Lure Modules"
+                ],
+                "spawns": [
+                    {
+                        "name": "Alolan Marowak",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_105_61.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Carvanha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dedenne",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Electrike",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Froakie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gastly",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hoothoot",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Houndour",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Joltik",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Murkrow",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_198_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Rookidee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Shinx",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown N",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_24.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown O",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_25.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown P",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_26.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Voltorb",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zorua",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Gengar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "research": [
+                    {
+                        "name": "Toxtricity (Amped Form)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fAMPED.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Toxtricity (Low Key Form)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fLOW_KEY.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1792895400,
+            "end_time": 1792911599,
+            "description": "Unconfirmed Pokémon GO hours: The time shown is based on the Pokémon Night Out concert schedule. Pokémon GO gameplay hours have not been confirmed, and the event may run at different times.\nCelebrate Pokémon Night Out with special Pokémon GO gameplay for attendees at the venue!\nDate: October 24, 2026 Location: Intuit Dome, Los Angeles, USA Night Out show starts: 7:30 p.m. PDT (unconfirmed for Pokémon GO) Doors open: 6:00 p.m. PDT End time: To be announced\nThe Intuit Dome listing gives the show start time, and Ticketmaster lists the doors-open time."
         }
     ],
     "PokéStop Showcase": [
@@ -20081,6 +20207,17 @@
             "start_time": 1783580400,
             "end_time": 1783839480,
             "description": "Tune in to any of the following Twitch channels for a continuous 30 minutes during the Twitch Drops window of Thursday, July 9, 2026, at 3:00 a.m. EDT through Sunday, July 12, 2026, at 2:58 a.m. EDT to earn a variety of Pokémon GO digital rewards:\n- AwesomeAdamTV\n- PokemonGO\n- landoralpha\n- Pokemon\nThe official Pokémon GO stream is scheduled for Thursday, July 9, 2026, from 6:30 p.m. to 9:00 p.m. EDT. The other channels do not have known schedules."
+        },
+        {
+            "title": "Twitch Drops for Pokémon Night Out 2026",
+            "article_url": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg",
+            "category": "Twitch Drops",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1792895400,
+            "end_time": 1792911540,
+            "description": "Celebrate Pokémon Night Out at Intuit Dome in Los Angeles with a Twitch broadcast that Trainers around the world can watch.\nTune in to Twitch.tv/Pokemon on Saturday, October 24, 2026, starting at 7:30 p.m. PDT (10:30 p.m. EDT) for 30 minutes to earn a code for exclusive Timed Research. Complete the research to receive a Pokémon Night Out baseball jersey for your avatar.\nThe broadcast end time and the code and Timed Research expiration dates have not been announced."
         }
     ],
     "Choose Your Path": [
