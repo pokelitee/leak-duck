@@ -11457,6 +11457,36 @@
             "start_time": 1792895400,
             "end_time": 1792911599,
             "description": "Unconfirmed Pokémon GO hours: The time shown is based on the Pokémon Night Out concert schedule. Pokémon GO gameplay hours have not been confirmed, and the event may run at different times.\nCelebrate Pokémon Night Out with special Pokémon GO gameplay for attendees at the venue!\nDate: October 24, 2026 Location: Intuit Dome, Los Angeles, USA Night Out show starts: 7:30 p.m. PDT (unconfirmed for Pokémon GO) Doors open: 6:00 p.m. PDT End time: To be announced\nThe Intuit Dome listing gives the show start time, and Ticketmaster lists the doors-open time."
+        },
+        {
+            "title": "Minior Showers: Orionids 2026",
+            "article_url": "https://leekduck.com/events/minior-showers-orionids-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1,000 Stardust for catching Minior",
+                    "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day"
+                ],
+                "features": [
+                    {
+                        "name": "Minior (Green Core)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_010_uk_n_00000000_f_n.png",
+                        "shiny_available": false
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Minior (Meteor Form)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-19T17:00:00",
+            "end_time": "2026-10-24T23:59:00",
+            "description": "Explore by starlight during the Orionids meteor shower for a chance to encounter Minior in Pokémon GO!\nThis Minior Shower runs from October 19, 2026 at 5:00 p.m. to October 24, 2026 at 11:59 p.m. local time."
         }
     ],
     "PokéStop Showcase": [
