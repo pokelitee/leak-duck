@@ -68,8 +68,8 @@
             "details": {},
             "is_local_time": false,
             "start_time": 1792895400,
-            "end_time": 1792911540,
-            "description": "Celebrate Pokémon Night Out at Intuit Dome in Los Angeles with a Twitch broadcast that Trainers around the world can watch.\nTune in to Twitch.tv/Pokemon on Saturday, October 24, 2026, starting at 7:30 p.m. PDT (10:30 p.m. EDT) for 30 minutes to earn a code for exclusive Timed Research. Complete the research to receive a Pokémon Night Out baseball jersey for your avatar.\nThe broadcast end time and the code and Timed Research expiration dates have not been announced."
+            "end_time": 1792905480,
+            "description": "Celebrate Pokémon Night Out at Intuit Dome in Los Angeles with a Twitch broadcast that Trainers around the world can watch.\nTune in to Twitch.tv/Pokemon on Saturday, October 24, 2026, starting at 7:30 p.m. PDT (10:30 p.m. EDT) for 30 minutes to earn a code for exclusive Timed Research. Complete the research to receive a Pokémon Night Out baseball jersey for your avatar.\nThe broadcast is estimated to end at 10:18 p.m. PDT on October 24 (1:18 a.m. EDT on October 25). The code and Timed Research expiration dates have not been announced."
         }
     ],
     "Event": [
@@ -196,8 +196,8 @@
             },
             "is_local_time": false,
             "start_time": 1792895400,
-            "end_time": 1792911599,
-            "description": "Unconfirmed Pokémon GO hours: The time shown is based on the Pokémon Night Out concert schedule. Pokémon GO gameplay hours have not been confirmed, and the event may run at different times.\nCelebrate Pokémon Night Out with special Pokémon GO gameplay for attendees at the venue!\nDate: October 24, 2026 Location: Intuit Dome, Los Angeles, USA Night Out show starts: 7:30 p.m. PDT (unconfirmed for Pokémon GO) Doors open: 6:00 p.m. PDT End time: To be announced\nThe Intuit Dome listing gives the show start time, and Ticketmaster lists the doors-open time."
+            "end_time": 1792905480,
+            "description": "Unconfirmed Pokémon GO hours: The start time shown is based on the Pokémon Night Out concert schedule, and the end time is estimated from the livestream duration minus 30 minutes. Pokémon GO gameplay hours have not been confirmed, and the event may run at different times.\nCelebrate Pokémon Night Out with special Pokémon GO gameplay for attendees at the venue!\nDate: October 24, 2026 Location: Intuit Dome, Los Angeles, USA Night Out show starts: 7:30 p.m. PDT (unconfirmed for Pokémon GO) Doors open: 6:00 p.m. PDT Estimated end time: 10:18 p.m. PDT\nThe Intuit Dome listing gives the show start time, and Ticketmaster lists the doors-open time."
         },
         {
             "title": "Minior Showers: Orionids 2026",
