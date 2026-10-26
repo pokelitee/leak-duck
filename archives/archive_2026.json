@@ -11455,8 +11455,8 @@
             },
             "is_local_time": false,
             "start_time": 1792895400,
-            "end_time": 1792911599,
-            "description": "Unconfirmed Pokémon GO hours: The time shown is based on the Pokémon Night Out concert schedule. Pokémon GO gameplay hours have not been confirmed, and the event may run at different times.\nCelebrate Pokémon Night Out with special Pokémon GO gameplay for attendees at the venue!\nDate: October 24, 2026 Location: Intuit Dome, Los Angeles, USA Night Out show starts: 7:30 p.m. PDT (unconfirmed for Pokémon GO) Doors open: 6:00 p.m. PDT End time: To be announced\nThe Intuit Dome listing gives the show start time, and Ticketmaster lists the doors-open time."
+            "end_time": 1792905480,
+            "description": "Unconfirmed Pokémon GO hours: The start time shown is based on the Pokémon Night Out concert schedule, and the end time is estimated from the livestream duration minus 30 minutes. Pokémon GO gameplay hours have not been confirmed, and the event may run at different times.\nCelebrate Pokémon Night Out with special Pokémon GO gameplay for attendees at the venue!\nDate: October 24, 2026 Location: Intuit Dome, Los Angeles, USA Night Out show starts: 7:30 p.m. PDT (unconfirmed for Pokémon GO) Doors open: 6:00 p.m. PDT Estimated end time: 10:18 p.m. PDT\nThe Intuit Dome listing gives the show start time, and Ticketmaster lists the doors-open time."
         },
         {
             "title": "Minior Showers: Orionids 2026",
@@ -20246,8 +20246,8 @@
             "details": {},
             "is_local_time": false,
             "start_time": 1792895400,
-            "end_time": 1792911540,
-            "description": "Celebrate Pokémon Night Out at Intuit Dome in Los Angeles with a Twitch broadcast that Trainers around the world can watch.\nTune in to Twitch.tv/Pokemon on Saturday, October 24, 2026, starting at 7:30 p.m. PDT (10:30 p.m. EDT) for 30 minutes to earn a code for exclusive Timed Research. Complete the research to receive a Pokémon Night Out baseball jersey for your avatar.\nThe broadcast end time and the code and Timed Research expiration dates have not been announced."
+            "end_time": 1792905480,
+            "description": "Celebrate Pokémon Night Out at Intuit Dome in Los Angeles with a Twitch broadcast that Trainers around the world can watch.\nTune in to Twitch.tv/Pokemon on Saturday, October 24, 2026, starting at 7:30 p.m. PDT (10:30 p.m. EDT) for 30 minutes to earn a code for exclusive Timed Research. Complete the research to receive a Pokémon Night Out baseball jersey for your avatar.\nThe broadcast is estimated to end at 10:18 p.m. PDT on October 24 (1:18 a.m. EDT on October 25). The code and Timed Research expiration dates have not been announced."
         }
     ],
     "Choose Your Path": [
@@ -21305,6 +21305,197 @@
             "start_time": 1790427600,
             "end_time": 1790542800,
             "description": "Explore Rio de Janeiro on September 26–27, 2026, from 10 am–6 pm BRT daily. Tickets: R$38 for one day, including taxes and fees. Ticketed gameplay requires attendance in Rio de Janeiro.\nOfficial event details"
+        },
+        {
+            "title": "Pokémon GO City Safari: Boston (Rescheduled)",
+            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/city-safari-boston-2026.jpg",
+            "category": "City Safari",
+            "details": {
+                "bonuses": [
+                    "Eight-hour Party Play",
+                    "Four-hour Lure Modules (excluding Golden Lure Modules)",
+                    "Half Stardust cost for trades",
+                    "Increased Shiny chance",
+                    "Tiny Compass buddy souvenir",
+                    "Up to five Special Trades"
+                ],
+                "features": [
+                    {
+                        "name": "Explorer Eevee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.cMay_2023.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Abra",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Baltoy",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Binacle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Buizel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Clauncher",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flamigo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Gothita",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hawlucha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Jigglypuff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Komala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Lillipup",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mareep",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Marill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Miltank",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mudbray",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Orange Flower Flabébé",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Oranguru",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Petilil",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Slowpoke",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Stantler",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Totodile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown B",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown L",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown M",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown R",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wingull",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Yamask",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "eggs": [
+                    {
+                        "name": "Hawlucha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Komala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mudbray",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Orange Flower Flabébé",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-24T10:00:00",
+            "end_time": "2026-10-25T18:00:00",
+            "description": "Boston City Safari will run globally for current ticket holders on October 24–25, 2026, from 10 am to 6 pm local time daily. Keep your ticket to participate; no action is needed.\nOfficial announcement"
         }
     ]
 }
