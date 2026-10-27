@@ -885,13 +885,43 @@
                 ],
                 "spawns": [
                     {
+                        "name": "Drifblim wearing a Halloween Mischief costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+                        "shiny_available": false
+                    },
+                    {
                         "name": "Duskull",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_355_00.png",
                         "shiny_available": false
                     },
                     {
+                        "name": "Gengar wearing a Tricks & Treats costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2023_NOEVOLVE.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Misdreavus",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_200_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Noibat wearing a headband",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm714.cHALLOWEEN_2025.icon.png",
+                        "shiny_available": false
+                    },
+                    {
                         "name": "Piplup wearing a Halloween Mischief costume",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Pumpkaboo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Vulpix wearing a Spooky Festival costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.cFALL_2022.icon.png",
                         "shiny_available": false
                     },
                     {

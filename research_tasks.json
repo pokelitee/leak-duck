@@ -1,4 +1,82 @@
 {
+    "Pokémon GO Halloween 2026 Part I Tasks": [
+        {
+            "task": "Win 3 raids",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing a hat and capelet",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fHALLOWEEN_2026.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 13 Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Zubat wearing a top hat",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm41.fHALLOWEEN_2026_01.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Noibat wearing a headband",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Headband Noibat.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Zubat wearing a top hat",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm41.fHALLOWEEN_2026_01.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Sinistea wearing a bow",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm854.fP_HALLOWEEN_2026_01.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make 6 Nice Throws",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Misdreavus",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm200.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Duskull",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm355.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pumpkaboo (Average)",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fAVERAGE.icon.png"
+                }
+            ]
+        }
+    ],
     "Pokémon GO City Safari: Boston (Rescheduled) Tasks": [
         {
             "task": "Catch 5 Pokémon",
