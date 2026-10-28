@@ -2595,6 +2595,73 @@
             "start_time": "2026-10-14T06:00:00",
             "end_time": "2026-10-20T22:00:00",
             "description": "Mega Dragonite will be in Mega Raids from October 14, 2026 at 6 am to October 20, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Mega Charizard X and Mega Charizard Y in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Charizard X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Charizard Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Charizard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00_shiny.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Charizard X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_51_shiny.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Charizard Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52_shiny.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-21T06:00:00",
+            "end_time": "2026-10-27T22:00:00",
+            "description": "Mega Charizard X and Mega Charizard Y will be in Mega Raids from October 21, 2026 at 6 am to October 27, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Palkia in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Palkia",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Palkia",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00_shiny.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-21T06:00:00",
+            "end_time": "2026-10-27T22:00:00",
+            "description": "Palkia will be in five-star raid battles from October 21, 2026 to October 27, 2026.\nThere will also be a Raid Hour featuring Palkia from 6:00 p.m. to 7:00 p.m. local time on October 21."
         }
     ],
     "Community Day": [
