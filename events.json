@@ -1,61 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Sableye during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-10-26/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-26T06:00:00",
-            "end_time": "2026-10-26T21:00:00",
-            "description": "Dynamax Sableye may appear in Max Battles from October 26, 2026 through November 1, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn October 26, 2026, the featured Dynamax Pokémon is Sableye.\n- Sableye"
-        },
-        {
-            "title": "Dynamax Machop during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-02/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-02T06:00:00",
-            "end_time": "2026-11-02T21:00:00",
-            "description": "Dynamax Machop may appear in Max Battles from November 2, 2026 through November 8, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 2, 2026, the featured Dynamax Pokémon is Machop.\n- Machop"
-        },
-        {
-            "title": "Max Monday: Pokémon to be announced",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-16T06:00:00",
-            "end_time": "2026-11-16T21:00:00",
-            "description": "The featured Dynamax Pokémon for November 16–23, 2026 has not been announced. Stay tuned for more details.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nThe featured Pokémon for Max Monday on November 16, 2026 will be announced later."
-        },
-        {
-            "title": "Dynamax Espurr during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-23T06:00:00",
-            "end_time": "2026-11-23T21:00:00",
-            "description": "Dynamax Espurr may appear in Max Battles from November 23, 2026 through November 29, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 23, 2026, the featured Dynamax Pokémon is Espurr.\n- Espurr"
-        },
-        {
-            "title": "Dynamax Cryogonal during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-11-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-30T06:00:00",
-            "end_time": "2026-11-30T21:00:00",
-            "description": "Dynamax Cryogonal may appear in Max Battles from November 30, 2026 through December 6, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 30, 2026, the featured Dynamax Pokémon is Cryogonal.\n- Cryogonal"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
@@ -578,6 +521,35 @@
             "start_time": "2026-11-05T18:00:00",
             "end_time": "2026-11-05T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nNovember 5: The featured Pokémon is Teddiursa wearing a witch hat and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Grookey, Scorbunny, and Sobble Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Grookey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scorbunny",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sobble",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-19T18:00:00",
+            "end_time": "2026-11-19T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nNovember 19: The featured Pokémon are Grookey, Scorbunny, and Sobble and the special bonus is 2× Catch Candy."
         },
         {
             "title": "Noibat Spotlight Hour",
@@ -1203,13 +1175,50 @@
         {
             "title": "Dynamax Trails",
             "article_url": "https://leekduck.com/events/dynamax-trails-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1/2 Candy and Stardust cost to activate the Dynamax Cannon Adventure Effect",
+                    "2× Catch Stardust",
+                    "Additional Candy and Candy XL from Max Battles",
+                    "Chance to receive Max Particles when catching event-themed Pokémon in the wild or after Max Battles",
+                    "More Power Spots than usual will be active"
+                ],
+                "features": [
+                    {
+                        "name": "Eternamax Eternatus",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm890.fETERNAMAX.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Grookey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scorbunny",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sobble",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "go-pass": [
+                    {
+                        "name": "Eternatus",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm890.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-11-16T10:00:00",
             "end_time": "2026-11-23T20:00:00",
-            "description": "The Dynamax Trails event will take place from November 16, 2026 to November 23, 2026. Stay tuned for more details."
+            "description": "Get ready for a week of Max Battles! Dynamax Pokémon return, Max Particles are surging in the wild, and Eternamax Eternatus returns to Power Spots during Dynamax Trails.\nThe Dynamax Trails event will take place from November 16, 2026 at 10 am to November 23, 2026 at 8 pm local time."
         },
         {
             "title": "Twilight Wishes",
@@ -1461,6 +1470,52 @@
             "start_time": "2027-08-10T17:00:00",
             "end_time": "2027-08-15T23:59:00",
             "description": "Explore by starlight during the Perseids meteor shower for a chance to encounter Minior in Pokémon GO!\nThis Minior Shower runs from August 10, 2027 at 5:00 p.m. to August 15, 2027 at 11:59 p.m. local time."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Machop during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-02/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-02T06:00:00",
+            "end_time": "2026-11-02T21:00:00",
+            "description": "Dynamax Machop may appear in Max Battles from November 2, 2026 through November 8, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 2, 2026, the featured Dynamax Pokémon is Machop.\n- Machop"
+        },
+        {
+            "title": "Max Monday: Pokémon to be announced",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-16T06:00:00",
+            "end_time": "2026-11-16T21:00:00",
+            "description": "The featured Dynamax Pokémon for November 16–23, 2026 has not been announced. Stay tuned for more details.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nThe featured Pokémon for Max Monday on November 16, 2026 will be announced later."
+        },
+        {
+            "title": "Dynamax Espurr during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-23T06:00:00",
+            "end_time": "2026-11-23T21:00:00",
+            "description": "Dynamax Espurr may appear in Max Battles from November 23, 2026 through November 29, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 23, 2026, the featured Dynamax Pokémon is Espurr.\n- Espurr"
+        },
+        {
+            "title": "Dynamax Cryogonal during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-11-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-30T06:00:00",
+            "end_time": "2026-11-30T21:00:00",
+            "description": "Dynamax Cryogonal may appear in Max Battles from November 30, 2026 through December 6, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 30, 2026, the featured Dynamax Pokémon is Cryogonal.\n- Cryogonal"
         }
     ],
     "GO Pass": [
@@ -2979,6 +3034,32 @@
             "start_time": "2026-11-14T10:00:00",
             "end_time": "2026-11-15T18:00:00",
             "description": "GO Wild Area returns in 2026 with Steel- and Dragon-type Pokémon, the debuts of Gigantamax Duraludon, Dynamax Dialga, and Dynamax Palkia, and powerful mighty Pokémon. Collect GO Safari Balls to help catch these challenging encounters!\nDates: November 14 and 15, 2026 Time: 10:00 a.m. – 6:00 p.m. local time each day Location: Worldwide\nAll Trainers can participate in the global event. An optional US$11.99 ticket adds Special Research, increased Shiny chances, extra Incense encounters, and additional bonuses across both days. Purchase a ticket from the Pokémon GO Web Store."
+        }
+    ],
+    "Max Battles": [
+        {
+            "title": "Eternamax Eternatus Returns",
+            "article_url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "8× Max Particles from Power Spots",
+                    "Max Particle collection limit increased to 2,400",
+                    "Power Spots will refresh more frequently"
+                ],
+                "features": [
+                    {
+                        "name": "Eternamax Eternatus",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm890.fETERNAMAX.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-21T11:00:00",
+            "end_time": "2026-11-21T14:00:00",
+            "description": "Eternamax Eternatus returns during Dynamax Trails, taking over the majority of Power Spots on November 21, 2026, from 11 am to 2 pm local time."
         }
     ],
     "Community Day": [
