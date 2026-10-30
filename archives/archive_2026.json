@@ -13481,6 +13481,25 @@
             "start_time": "2026-10-22T18:00:00",
             "end_time": "2026-10-22T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 22: The featured Pokémon is Morelull and the special bonus is 2× Catch Stardust."
+        },
+        {
+            "title": "Gastly Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Gastly",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-29T18:00:00",
+            "end_time": "2026-10-29T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 29: The featured Pokémon is Gastly and the special bonus is 2× Evolution XP."
         }
     ],
     "Raid Hour": [
