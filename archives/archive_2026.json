@@ -11554,6 +11554,162 @@
             "start_time": "2026-10-19T17:00:00",
             "end_time": "2026-10-24T23:59:00",
             "description": "Explore by starlight during the Orionids meteor shower for a chance to encounter Minior in Pokémon GO!\nThis Minior Shower runs from October 19, 2026 at 5:00 p.m. to October 24, 2026 at 11:59 p.m. local time."
+        },
+        {
+            "title": "Pokémon GO Halloween 2026 Part I",
+            "article_url": "https://leekduck.com/events/halloween-2026-part-1/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/halloween-2026-part-1.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for catching Pokémon",
+                    "2× Stardust for catching Pokémon",
+                    "GO Pass Deluxe: 3× Candy for catching Pokémon",
+                    "GO Pass Deluxe: 3× Stardust for catching Pokémon"
+                ],
+                "features": [
+                    {
+                        "name": "Drifblim wearing a Halloween Mischief costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Gengar wearing a Tricks & Treats costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2023_NOEVOLVE.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Noibat wearing a headband",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm714.cHALLOWEEN_2025.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Pikachu Candy×6",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/25.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Pikachu wearing a hat and capelet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/pikachu-hat-capelet.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Piplup wearing a Halloween Mischief costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Rare Candy×1",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sinistea Candy×6",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/854.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sinistea wearing a bow",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/sinistea-bow.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Vulpix wearing a Spooky Festival costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.cFALL_2022.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Zubat Candy×6",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/41.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Zubat wearing a top hat",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm41.fHALLOWEEN_2026_01.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Drifblim wearing a Halloween Mischief costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Duskull",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_355_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Gengar wearing a Tricks & Treats costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2023_NOEVOLVE.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Misdreavus",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_200_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Noibat wearing a headband",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm714.cHALLOWEEN_2025.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Piplup wearing a Halloween Mischief costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Pumpkaboo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Vulpix wearing a Spooky Festival costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.cFALL_2022.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Zubat wearing a top hat",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm41.fHALLOWEEN_2026_01.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Pikachu wearing a hat and capelet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fHALLOWEEN_2026.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sinistea wearing a bow",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm854.fP_HALLOWEEN_2026_01.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Pikachu wearing a hat and capelet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHALLOWEEN_2026.s.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sinistea wearing a bow",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.fP_HALLOWEEN_2026_01.s.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zubat wearing a top hat",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm41.fHALLOWEEN_2026_01.s.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-27T10:00:00",
+            "end_time": "2026-11-01T10:00:00",
+            "description": "Celebrate Halloween with the debut of Pikachu wearing a hat and capelet, Zubat wearing a top hat, and Sinistea wearing a bow! Discover spooky surprises in the wild and unlock Candy and Stardust bonuses with the event GO Pass.\nHalloween 2026 Part I runs from Tuesday, October 27, at 10:00 a.m. to Sunday, November 1, 2026, at 10:00 a.m. local time.\nThe celebration continues in Halloween 2026 Part II, featuring Shiny Greavard’s debut and Mega Sableye’s new Super Max level."
         }
     ],
     "PokéStop Showcase": [
