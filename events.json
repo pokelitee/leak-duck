@@ -238,6 +238,11 @@
                 ],
                 "spawns": [
                     {
+                        "name": "Froakie wearing a Pokémon Halloween costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm656.cFALL_2024.icon.png",
+                        "shiny_available": false
+                    },
+                    {
                         "name": "Gengar wearing a Spooky Festival costume",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2022_NOEVOLVE.icon.png",
                         "shiny_available": false
@@ -255,6 +260,16 @@
                     {
                         "name": "Rowlet wearing a Pokémon Halloween costume",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm722.cFALL_2024.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sandygast",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm769.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Shuppet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm353.icon.png",
                         "shiny_available": false
                     }
                 ],
