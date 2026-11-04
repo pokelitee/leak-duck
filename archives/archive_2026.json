@@ -2662,6 +2662,58 @@
             "start_time": "2026-10-21T06:00:00",
             "end_time": "2026-10-27T22:00:00",
             "description": "Palkia will be in five-star raid battles from October 21, 2026 to October 27, 2026.\nThere will also be a Raid Hour featuring Palkia from 6:00 p.m. to 7:00 p.m. local time on October 21."
+        },
+        {
+            "title": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Landorus (Incarnate)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Landorus (Incarnate)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11_shiny.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-07T06:00:00",
+            "end_time": "2026-11-03T22:00:00",
+            "description": "Shadow Landorus (Incarnate Forme) will appear in five-star Shadow Raids every weekend from October 7, 2026 to November 3, 2026. If you’re lucky, you may encounter Shiny Shadow Landorus (Incarnate Forme)!"
+        },
+        {
+            "title": "Giratina (Origin Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/giratinaoriginforme.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Giratina (Origin)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_12.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Giratina (Origin)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_12_shiny.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-28T06:00:00",
+            "end_time": "2026-11-03T22:00:00",
+            "description": "Giratina (Origin) will be in five-star raid battles from October 28, 2026 to November 3, 2026.\nThere will also be a Raid Hour featuring Giratina (Origin Forme) from 6:00 p.m. to 7:00 p.m. local time on October 28."
         }
     ],
     "Community Day": [
