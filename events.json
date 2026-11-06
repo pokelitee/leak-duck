@@ -1,39 +1,4 @@
 {
-    "Raid Hour": [
-        {
-            "title": "Giratina (Altered Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261104/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-04T18:00:00",
-            "end_time": "2026-11-04T19:00:00",
-            "description": "A Raid Hour featuring Giratina (Altered Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        },
-        {
-            "title": "Cresselia and Darkrai Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261118/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-18T18:00:00",
-            "end_time": "2026-11-18T19:00:00",
-            "description": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        },
-        {
-            "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20261125/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-25T18:00:00",
-            "end_time": "2026-11-25T19:00:00",
-            "description": "A Raid Hour featuring Deoxys (Normal, Defense, Attack, and Speed Formes) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
-        }
-    ],
     "Pokémon Spotlight Hour": [
         {
             "title": "Teddiursa wearing a witch hat Spotlight Hour",
@@ -1219,7 +1184,7 @@
                     },
                     {
                         "name": "Modern Jacket Machamp",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm68.fWILDAREA_2026_01.icon.png",
                         "shiny_available": true
                     },
                     {
@@ -1403,7 +1368,7 @@
                     },
                     {
                         "name": "Modern Jacket Machamp",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm68.fWILDAREA_2026_01.icon.png",
                         "shiny_available": true
                     },
                     {
@@ -1730,7 +1695,7 @@
                     },
                     {
                         "name": "Modern Jacket Machamp",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm68.fWILDAREA_2026_01.icon.png",
                         "shiny_available": true
                     },
                     {
@@ -1914,7 +1879,7 @@
                     },
                     {
                         "name": "Modern Jacket Machamp",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm68.fWILDAREA_2026_01.icon.png",
                         "shiny_available": true
                     },
                     {
@@ -2370,7 +2335,7 @@
                     },
                     {
                         "name": "Modern Jacket Machamp",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm68.fWILDAREA_2026_01.icon.png",
                         "shiny_available": true
                     },
                     {
@@ -2739,6 +2704,30 @@
             "start_time": "2026-11-30T06:00:00",
             "end_time": "2026-11-30T21:00:00",
             "description": "Dynamax Cryogonal may appear in Max Battles from November 30, 2026 through December 6, 2026.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn November 30, 2026, the featured Dynamax Pokémon is Cryogonal.\n- Cryogonal"
+        }
+    ],
+    "Raid Hour": [
+        {
+            "title": "Cresselia and Darkrai Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261118/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-18T18:00:00",
+            "end_time": "2026-11-18T19:00:00",
+            "description": "A Raid Hour featuring Cresselia and Darkrai is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        },
+        {
+            "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20261125/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-25T18:00:00",
+            "end_time": "2026-11-25T19:00:00",
+            "description": "A Raid Hour featuring Deoxys (Normal, Defense, Attack, and Speed Formes) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
         }
     ],
     "Max Battles": [
