@@ -1,5 +1,276 @@
 {
-    "Pokémon GO Wild Area 2026: Sendai • Tohoku Tasks": [],
+    "Pokémon GO Wild Area 2026: Sendai • Tohoku Tasks": [
+        {
+            "task": "Catch 10 Dragon-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Trapinch",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm328.icon.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 2000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Silver Pinap Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Dragon-type Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Frigibax",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm996.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Steel-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Rookidee",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm821.icon.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Golden Razz Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 2000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Honedge",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm679.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Drampa",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm780.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Steel-type Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Onix",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm95.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skarmory",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm227.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bronzor",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm436.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Use a Steel-type Charged Attack in a battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Shieldon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make an Excellent Throw",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Silver Pinap Berry",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Golden Razz Berry",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Wild Area 2026: Mexico City Tasks": [
+        {
+            "task": "Catch 10 Dragon-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Trapinch",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm328.icon.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 2000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Silver Pinap Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Dragon-type Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Frigibax",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm996.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Steel-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Rookidee",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm821.icon.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Golden Razz Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 2000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Honedge",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm679.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Drampa",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm780.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Steel-type Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Onix",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm95.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skarmory",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm227.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bronzor",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm436.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Use a Steel-type Charged Attack in a battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Shieldon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make an Excellent Throw",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Silver Pinap Berry",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Golden Razz Berry",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
+                }
+            ]
+        }
+    ],
     "Pokémon GO Halloween 2026 Part II Tasks": [
         {
             "task": "Catch 13 Pokémon",
