@@ -11762,6 +11762,102 @@
             "start_time": "2026-10-27T10:00:00",
             "end_time": "2026-11-01T10:00:00",
             "description": "Celebrate Halloween with the debut of Pikachu wearing a hat and capelet, Zubat wearing a top hat, and Sinistea wearing a bow! Discover spooky surprises in the wild and unlock Candy and Stardust bonuses with the event GO Pass.\nHalloween 2026 Part I runs from Tuesday, October 27, at 10:00 a.m. to Sunday, November 1, 2026, at 10:00 a.m. local time.\nThe celebration continues in Halloween 2026 Part II, featuring Shiny Greavard’s debut and Mega Sableye’s new Super Max level."
+        },
+        {
+            "title": "Pokémon GO Halloween 2026 Part II",
+            "article_url": "https://leekduck.com/events/halloween-2026-part-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-01-halloween-2026-part-2/halloween-2026-part-2.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for catching Pokémon",
+                    "2× Stardust for catching Pokémon",
+                    "GO Pass Deluxe: 3× Candy for catching Pokémon",
+                    "GO Pass Deluxe: 3× Stardust for catching Pokémon"
+                ],
+                "features": [
+                    {
+                        "name": "Mega Sableye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Froakie wearing a Pokémon Halloween costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm656.cFALL_2024.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Gengar wearing a Spooky Festival costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2022_NOEVOLVE.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Greavard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm971.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Litwick",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_607_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Rowlet wearing a Pokémon Halloween costume",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm722.cFALL_2024.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sandygast",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm769.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Shuppet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm353.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Pikachu wearing a hat and capelet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fHALLOWEEN_2026.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sinistea wearing a bow",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm854.fP_HALLOWEEN_2026_01.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Greavard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm971.s.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Houndstone",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm972.s.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pikachu wearing a hat and capelet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHALLOWEEN_2026.s.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sinistea wearing a bow",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.fP_HALLOWEEN_2026_01.s.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-01T10:00:00",
+            "end_time": "2026-11-05T20:00:00",
+            "description": "Shiny Greavard makes its Pokémon GO debut, and Mega Sableye can reach the new Super Max Mega Level! Halloween continues with costumed Pokémon, themed encounters, and GO Pass bonuses.\nHalloween 2026 Part II runs from Sunday, November 1, at 10:00 a.m. to Thursday, November 5, 2026, at 8:00 p.m. local time.\nSee Halloween 2026 Part I for the first part of the celebration, including the debut of costumed Pikachu, Zubat, and Sinistea."
         }
     ],
     "PokéStop Showcase": [
@@ -13754,6 +13850,25 @@
             "start_time": "2026-10-29T18:00:00",
             "end_time": "2026-10-29T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nOctober 29: The featured Pokémon is Gastly and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Teddiursa wearing a witch hat Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-11-05/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Teddiursa wearing a witch hat",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm216.cHALLOWEEN_2025.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-05T18:00:00",
+            "end_time": "2026-11-05T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nNovember 5: The featured Pokémon is Teddiursa wearing a witch hat and the special bonus is 2× Evolution XP."
         }
     ],
     "Raid Hour": [
