@@ -16,9 +16,9 @@
             "updated_at": "2026-10-12T17:30:07Z"
         },
         "events.json": {
-            "sha256": "1b82b94dc6ce76ec11c56a183b32d07be611fa3866af78864afb3b8f9cf61344",
-            "size": 169809,
-            "updated_at": "2026-11-06T17:59:53Z"
+            "sha256": "b8fae494164a1f355381c00f30f5d22535608ceacdb2c307c83e1d2137b29bb9",
+            "size": 163495,
+            "updated_at": "2026-11-07T10:15:48Z"
         },
         "raid_bosses.json": {
             "sha256": "928363e51f0701ec8f45d09bfd7e2d6557df88987a9f8076fc79bbdd66dcb8d5",
@@ -26,9 +26,9 @@
             "updated_at": "2026-11-05T22:01:42Z"
         },
         "research_tasks.json": {
-            "sha256": "5c24d63cd2e4a30d16678f181878e658f38e90a9e91f93587fbc3a620cf21519",
-            "size": 106187,
-            "updated_at": "2026-11-07T02:51:10Z"
+            "sha256": "5f035f0246fcae0e03d4466076af730becb066a78b720d3abfffb75bbd2bbb04",
+            "size": 102397,
+            "updated_at": "2026-11-07T10:15:48Z"
         },
         "rocket_lineups.json": {
             "sha256": "8a7c6e87375a7204df8c937d7aaf3de17d9195db1cf70e627da8c3bae5e0a80d",
