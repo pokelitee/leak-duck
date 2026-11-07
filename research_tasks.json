@@ -165,6 +165,20 @@
             "rewards": [
                 {
                     "type": "encounter",
+                    "name": "Goomy",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm704.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Jangmo-o",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm782.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Frigibax",
                     "shiny_available": false,
                     "cp_range": null,
