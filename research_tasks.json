@@ -1,4 +1,183 @@
 {
+    "Into the Wild 2026 Tasks": [
+        {
+            "task": "Power up Steel-type Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Galarian Meowth",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm52.fGALARIAN.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Magnemite",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm81.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Aron",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm304.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Togedemaru",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm777.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Dragon-type Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Horsea",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm116.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Dratini",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bagon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skrelp",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm690.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Scyther",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Dratini",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Rare Candy",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Magnemite",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm81.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Horsea",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm116.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Aron",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm304.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skrelp",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm690.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a Max Battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mawile",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm303.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bagon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch a Dynamax Machop",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Machop Candy",
+                    "quantity": 25,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/66.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 5000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch a Dynamax Ralts",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Ralts Candy",
+                    "quantity": 25,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/280.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 5000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        }
+    ],
     "Pokémon GO Wild Area 2026: Mexico City Tasks": [
         {
             "task": "Catch 10 Dragon-type Pokémon",
@@ -51,6 +230,58 @@
             ]
         },
         {
+            "task": "Win 2 raids",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Modern Jacket Machamp",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm68.fWILDAREA_2026_01.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Azumarill",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm184.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Conkeldurr",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm534.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a Max Battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Modern Jacket Machamp",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm68.fWILDAREA_2026_01.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Bastiodon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm411.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Kommo-o",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm784.icon.png"
+                }
+            ]
+        },
+        {
             "task": "Catch 10 Steel-type Pokémon",
             "rewards": [
                 {
@@ -71,6 +302,18 @@
                     "name": "Stardust",
                     "quantity": 2000,
                     "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch a Hisuian Sliggoo",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Hisuian Sliggoo",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm705.fHISUIAN.icon.png"
                 }
             ]
         },
@@ -128,12 +371,50 @@
                     "shiny_available": false,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Bastiodon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm411.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Explore 2 km",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Modern Jacket Machamp",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm68.fWILDAREA_2026_01.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Use a Dragon-type Charged Attack in a battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Kommo-o",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm784.icon.png"
                 }
             ]
         },
         {
             "task": "Make an Excellent Throw",
             "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Modern Jacket Machamp",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm68.fWILDAREA_2026_01.icon.png"
+                },
                 {
                     "type": "item",
                     "name": "Silver Pinap Berry",
@@ -187,6 +468,44 @@
             ]
         },
         {
+            "task": "Win 2 raids",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Modern Jacket Machamp",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm68.fWILDAREA_2026_01.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Azumarill",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm184.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a Max Battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Bastiodon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm411.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Kommo-o",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm784.icon.png"
+                }
+            ]
+        },
+        {
             "task": "Catch 10 Steel-type Pokémon",
             "rewards": [
                 {
@@ -207,6 +526,18 @@
                     "name": "Stardust",
                     "quantity": 2000,
                     "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch a Hisuian Sliggoo",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Hisuian Sliggoo",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm705.fHISUIAN.icon.png"
                 }
             ]
         },
@@ -264,6 +595,37 @@
                     "shiny_available": false,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Bastiodon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm411.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Explore 2 km",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Modern Jacket Machamp",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm68.fWILDAREA_2026_01.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Use a Dragon-type Charged Attack in a battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Kommo-o",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm784.icon.png"
                 }
             ]
         },

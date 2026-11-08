@@ -1933,13 +1933,58 @@
                 ],
                 "spawns": [
                     {
+                        "name": "Aron",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bagon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dratini",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Meowth",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Horsea",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_116_00.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Magnemite",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png",
                         "shiny_available": true
                     },
                     {
+                        "name": "Mareep",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mawile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_00.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Noibat",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scyther",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skrelp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_690_00.png",
                         "shiny_available": true
                     },
                     {
