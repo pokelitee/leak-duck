@@ -463,23 +463,8 @@
                 ],
                 "raids": [
                     {
-                        "name": "Dialga",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_483_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Gigantamax Duraludon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/gigantamax-duraludon.png",
-                        "shiny_available": false
-                    },
-                    {
                         "name": "Modern Jacket Machamp",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm68.fWILDAREA_2026_01.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Palkia",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_484_00.png",
                         "shiny_available": true
                     },
                     {
@@ -490,6 +475,23 @@
                     {
                         "name": "Zamazenta (Crowned Shield)",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fCROWNED_SHIELD.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "max-battles": [
+                    {
+                        "name": "Dialga",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_483_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gigantamax Duraludon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/gigantamax-duraludon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Palkia",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_484_00.png",
                         "shiny_available": true
                     }
                 ],
@@ -974,23 +976,8 @@
                 ],
                 "raids": [
                     {
-                        "name": "Dialga",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_483_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Gigantamax Duraludon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/gigantamax-duraludon.png",
-                        "shiny_available": false
-                    },
-                    {
                         "name": "Modern Jacket Machamp",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm68.fWILDAREA_2026_01.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Palkia",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_484_00.png",
                         "shiny_available": true
                     },
                     {
@@ -1001,6 +988,23 @@
                     {
                         "name": "Zamazenta (Crowned Shield)",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fCROWNED_SHIELD.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "max-battles": [
+                    {
+                        "name": "Dialga",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_483_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gigantamax Duraludon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/gigantamax-duraludon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Palkia",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_484_00.png",
                         "shiny_available": true
                     }
                 ],
@@ -1420,16 +1424,6 @@
                 ],
                 "raids": [
                     {
-                        "name": "Dialga",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_483_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Gigantamax Duraludon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/gigantamax-duraludon.png",
-                        "shiny_available": false
-                    },
-                    {
                         "name": "Kyurem (Black)",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_13.png",
                         "shiny_available": true
@@ -1445,11 +1439,6 @@
                         "shiny_available": true
                     },
                     {
-                        "name": "Palkia",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_484_00.png",
-                        "shiny_available": true
-                    },
-                    {
                         "name": "Reshiram",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_643_00.png",
                         "shiny_available": true
@@ -1457,6 +1446,23 @@
                     {
                         "name": "Zekrom",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "max-battles": [
+                    {
+                        "name": "Dialga",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_483_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gigantamax Duraludon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/gigantamax-duraludon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Palkia",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_484_00.png",
                         "shiny_available": true
                     }
                 ]
@@ -1949,6 +1955,23 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Orthworm",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zacian (Crowned Sword)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fCROWNED_SWORD.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zamazenta (Crowned Shield)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fCROWNED_SHIELD.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "max-battles": [
+                    {
                         "name": "Latias",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_380_00.png",
                         "shiny_available": true
@@ -1964,11 +1987,6 @@
                         "shiny_available": true
                     },
                     {
-                        "name": "Orthworm",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png",
-                        "shiny_available": true
-                    },
-                    {
                         "name": "Ralts",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_280_00.png",
                         "shiny_available": true
@@ -1981,16 +1999,6 @@
                     {
                         "name": "Registeel",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_379_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Zacian (Crowned Sword)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fCROWNED_SWORD.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Zamazenta (Crowned Shield)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fCROWNED_SHIELD.icon.png",
                         "shiny_available": true
                     }
                 ],
@@ -2082,11 +2090,6 @@
                 ],
                 "features": [
                     {
-                        "name": "Eternamax Eternatus",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm890.fETERNAMAX.icon.png",
-                        "shiny_available": false
-                    },
-                    {
                         "name": "Grookey",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
                         "shiny_available": true
@@ -2100,6 +2103,13 @@
                         "name": "Sobble",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
                         "shiny_available": true
+                    }
+                ],
+                "max-battles": [
+                    {
+                        "name": "Eternamax Eternatus",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm890.fETERNAMAX.icon.png",
+                        "shiny_available": false
                     }
                 ],
                 "go-pass": [
