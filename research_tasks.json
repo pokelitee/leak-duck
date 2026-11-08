@@ -1,5 +1,5 @@
 {
-    "Pokémon GO Wild Area 2026: Sendai • Tohoku Tasks": [
+    "Pokémon GO Wild Area 2026: Mexico City Tasks": [
         {
             "task": "Catch 10 Dragon-type Pokémon",
             "rewards": [
@@ -27,6 +27,20 @@
         {
             "task": "Power up Dragon-type Pokémon 5 times",
             "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Goomy",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm704.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Jangmo-o",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm782.icon.png"
+                },
                 {
                     "type": "encounter",
                     "name": "Frigibax",
@@ -135,7 +149,7 @@
             ]
         }
     ],
-    "Pokémon GO Wild Area 2026: Mexico City Tasks": [
+    "Pokémon GO Wild Area 2026: Sendai • Tohoku Tasks": [
         {
             "task": "Catch 10 Dragon-type Pokémon",
             "rewards": [
@@ -163,20 +177,6 @@
         {
             "task": "Power up Dragon-type Pokémon 5 times",
             "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Goomy",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm704.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Jangmo-o",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm782.icon.png"
-                },
                 {
                     "type": "encounter",
                     "name": "Frigibax",
