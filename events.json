@@ -1922,12 +1922,12 @@
                 "features": [
                     {
                         "name": "Meltan",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_808_00.png",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_808_00.png",
                         "shiny_available": true
                     },
                     {
                         "name": "Regidrago",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm895.icon.png",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm895.icon.png",
                         "shiny_available": true
                     }
                 ],
