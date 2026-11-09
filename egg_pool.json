@@ -536,7 +536,7 @@
         },
         {
             "name": "Shroodle",
-            "shiny_available": false,
+            "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm944.icon.png",
             "hatch_distance": 12,
             "rarity_tier": 1

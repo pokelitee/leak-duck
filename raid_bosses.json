@@ -37,58 +37,57 @@
             "is_shadow": false
         },
         {
-            "name": "Shadow Primeape",
+            "name": "Shadow Poliwhirl",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm57.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm61.icon.png",
             "tier": 3,
             "cp_range": {
-                "min": 1185,
-                "max": 1307
+                "min": 716,
+                "max": 811
             },
             "boosted_cp_range": {
-                "min": 1482,
-                "max": 1634
+                "min": 895,
+                "max": 1013
             },
             "types": [
-                "Fighting"
+                "Water"
             ],
             "is_shadow": true
         },
         {
-            "name": "Shadow Kirlia",
+            "name": "Shadow Piloswine",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm281.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm221.icon.png",
             "tier": 3,
             "cp_range": {
-                "min": 475,
-                "max": 552
+                "min": 1217,
+                "max": 1340
             },
             "boosted_cp_range": {
-                "min": 593,
-                "max": 690
+                "min": 1521,
+                "max": 1675
             },
             "types": [
-                "Psychic",
-                "Fairy"
+                "Ice",
+                "Ground"
             ],
             "is_shadow": true
         },
         {
-            "name": "Shadow Drapion",
+            "name": "Shadow Prinplup",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm452.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm394.icon.png",
             "tier": 3,
             "cp_range": {
-                "min": 1277,
-                "max": 1401
+                "min": 868,
+                "max": 972
             },
             "boosted_cp_range": {
-                "min": 1596,
-                "max": 1752
+                "min": 1086,
+                "max": 1215
             },
             "types": [
-                "Poison",
-                "Dark"
+                "Water"
             ],
             "is_shadow": true
         }
@@ -133,20 +132,19 @@
             "is_shadow": false
         },
         {
-            "name": "Shadow Landorus (Incarnate)",
+            "name": "Shadow Tornadus (Incarnate)",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm645.fINCARNATE.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm641.fINCARNATE.icon.png",
             "tier": 5,
             "cp_range": {
-                "min": 1897,
-                "max": 2050
+                "min": 1762,
+                "max": 1911
             },
             "boosted_cp_range": {
-                "min": 2372,
-                "max": 2563
+                "min": 2203,
+                "max": 2389
             },
             "types": [
-                "Ground",
                 "Flying"
             ],
             "is_shadow": true
@@ -154,36 +152,36 @@
     ],
     "1-Star Raids": [
         {
-            "name": "Shadow Gastly",
+            "name": "Shadow Larvitar",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm92.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm246.icon.png",
             "tier": 1,
             "cp_range": {
-                "min": 608,
-                "max": 702
+                "min": 513,
+                "max": 594
             },
             "boosted_cp_range": {
-                "min": 760,
-                "max": 878
+                "min": 642,
+                "max": 743
             },
             "types": [
-                "Ghost",
-                "Poison"
+                "Rock",
+                "Ground"
             ],
             "is_shadow": true
         },
         {
-            "name": "Shadow Totodile",
+            "name": "Shadow Mudkip",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm158.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm258.icon.png",
             "tier": 1,
             "cp_range": {
-                "min": 562,
-                "max": 646
+                "min": 560,
+                "max": 644
             },
             "boosted_cp_range": {
-                "min": 703,
-                "max": 808
+                "min": 700,
+                "max": 805
             },
             "types": [
                 "Water"
@@ -191,40 +189,38 @@
             "is_shadow": true
         },
         {
-            "name": "Shadow Shieldon",
+            "name": "Shadow Makuhita",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm410.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm296.icon.png",
             "tier": 1,
             "cp_range": {
-                "min": 431,
-                "max": 509
+                "min": 391,
+                "max": 467
             },
             "boosted_cp_range": {
-                "min": 539,
-                "max": 636
+                "min": 489,
+                "max": 583
             },
             "types": [
-                "Rock",
-                "Steel"
+                "Fighting"
             ],
             "is_shadow": true
         },
         {
-            "name": "Shadow Gible",
+            "name": "Shadow Cranidos",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm443.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm408.icon.png",
             "tier": 1,
             "cp_range": {
-                "min": 551,
-                "max": 635
+                "min": 922,
+                "max": 1040
             },
             "boosted_cp_range": {
-                "min": 689,
-                "max": 794
+                "min": 1153,
+                "max": 1300
             },
             "types": [
-                "Dragon",
-                "Ground"
+                "Rock"
             ],
             "is_shadow": true
         }

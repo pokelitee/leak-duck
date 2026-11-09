@@ -6,29 +6,29 @@
             "updated_at": "2026-10-13T14:56:12Z"
         },
         "archives/archive_2026.json": {
-            "sha256": "40d09cbe8e26d17d569dbb7d6dde4c097d6036263e73f8beaaa5ecbe8d05220e",
-            "size": 1234440,
-            "updated_at": "2026-11-09T06:38:13Z"
+            "sha256": "440dea6cdc58385be61f66e6afdb2e90238db11bdc20c1017f6994d6241b5373",
+            "size": 1238330,
+            "updated_at": "2026-11-09T17:33:47Z"
         },
         "egg_pool.json": {
-            "sha256": "cae8eeffb56c788b643b3b2b7ec314ed6be851582756a06a1e20b7c7e2510a1e",
-            "size": 20026,
-            "updated_at": "2026-10-12T17:30:07Z"
+            "sha256": "02c228b36c18a97d57d297d70a334af293731361bd15d933eb5d01923e2b517c",
+            "size": 20025,
+            "updated_at": "2026-11-09T17:33:47Z"
         },
         "events.json": {
-            "sha256": "d957c0382762674e0d37cd9e6fdbabd70cc7033bdd123e0e6e0eddaaf047a0e9",
-            "size": 166214,
-            "updated_at": "2026-11-09T06:38:13Z"
+            "sha256": "e02f5b47d251b2d3b32b94c0765b0d4e371679d641f6f23f09317dd40e706c48",
+            "size": 166310,
+            "updated_at": "2026-11-09T17:33:47Z"
         },
         "raid_bosses.json": {
-            "sha256": "715e200beb80b1fe31a10c9252097d4c42c00babb7254aa80e84bba6a669527e",
-            "size": 6442,
-            "updated_at": "2026-11-09T06:38:13Z"
+            "sha256": "2071c42e042d21494945bb3c5335949fec3222779b9b6919c9d5eb9c42b5f372",
+            "size": 6346,
+            "updated_at": "2026-11-09T17:33:47Z"
         },
         "research_tasks.json": {
-            "sha256": "ca5b97e71659c0ffb344854599ba30aa3df29c3dedf4c282eb707c216d00b287",
-            "size": 116512,
-            "updated_at": "2026-11-09T06:38:13Z"
+            "sha256": "c0cd2d2879250b5907951d937df409f3194d995e68deed9969d896e8c631133a",
+            "size": 108289,
+            "updated_at": "2026-11-09T17:33:47Z"
         },
         "rocket_lineups.json": {
             "sha256": "8a7c6e87375a7204df8c937d7aaf3de17d9195db1cf70e627da8c3bae5e0a80d",
