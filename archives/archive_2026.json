@@ -11934,6 +11934,132 @@
             "start_time": "2026-11-01T10:00:00",
             "end_time": "2026-11-05T20:00:00",
             "description": "Shiny Greavard makes its Pokémon GO debut, and Mega Sableye can reach the new Super Max Mega Level! Halloween continues with costumed Pokémon, themed encounters, and GO Pass bonuses.\nHalloween 2026 Part II runs from Sunday, November 1, at 10:00 a.m. to Thursday, November 5, 2026, at 8:00 p.m. local time.\nSee Halloween 2026 Part I for the first part of the celebration, including the debut of costumed Pikachu, Zubat, and Sinistea."
+        },
+        {
+            "title": "Pokémon Night Out 2026 - London",
+            "article_url": "https://leekduck.com/events/pokemon-night-out-london-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemon-night-out-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Lure Modules activated during the event last for one hour, excluding Golden Lure Modules"
+                ],
+                "spawns": [
+                    {
+                        "name": "Alolan Marowak",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_105_61.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Carvanha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dedenne",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Electrike",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Froakie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gastly",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hoothoot",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Houndour",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Joltik",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Murkrow",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_198_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Rookidee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Shinx",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown N",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_24.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown O",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_25.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown P",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_26.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Voltorb",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zorua",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Gengar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "research": [
+                    {
+                        "name": "Toxtricity (Amped Form)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fAMPED.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Toxtricity (Low Key Form)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fLOW_KEY.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1794333600,
+            "end_time": 1794349800,
+            "description": "Unconfirmed Pokémon GO hours: The times shown are based on the Pokémon Night Out event schedule, beginning when doors open. Pokémon GO gameplay hours have not been confirmed, and the event may run at different times.\nCelebrate Pokémon Night Out with special Pokémon GO gameplay for attendees at the venue!\nDate: November 10, 2026 Location: O2 Arena, London, England Night Out event hours: 6:00 p.m. – 10:30 p.m. GMT (unconfirmed for Pokémon GO)\nThe O2 listing gives a doors-open time of 6:00 p.m., and its official calendar lists an end time of 10:30 p.m. The concert’s performance start time is not specified."
         }
     ],
     "PokéStop Showcase": [
@@ -13415,6 +13541,17 @@
             "start_time": 1793134800,
             "end_time": 1793739600,
             "description": "The Master League and Mega Halloween Cup: Great League Edition will run from October 27, 2026, at 1:00 p.m. to November 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Only Bug-, Poison-, Ghost-, Dark-, and Fairy-type Pokémon are eligible."
+        },
+        {
+            "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+            "article_url": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1793739600,
+            "end_time": 1794344400,
+            "description": "The Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition will run from November 3, 2026, at 1:00 p.m. to November 10, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Pokémon must be at or below 2,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         }
     ],
     "Pokémon Spotlight Hour": [
