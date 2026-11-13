@@ -178,6 +178,163 @@
             ]
         }
     ],
+    "Pokémon GO Wild Area 2026: Global Tasks": [
+        {
+            "task": "Catch 2 mighty Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Aggron",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm306.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Magnezone",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm462.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Ferrothorn",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm598.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Steel-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Piplup",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Shieldon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Ferroseed",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm597.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 4 different species of Steel-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Duraludon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm884.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make an Excellent Throw",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Golden Razz Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Bronzor",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm436.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Drilbur",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm529.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Steel-type Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Alolan Sandshrew",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.fALOLA.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Alolan Diglett",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm50.fALOLA.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Galarian Stunfisk",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.fGALARIAN.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 500,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Use a Steel-type Charged Attack in a battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Skarmory",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm227.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win 2 Max Battles",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Metagross",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm376.icon.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
