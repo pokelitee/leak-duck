@@ -178,10 +178,17 @@
             ]
         }
     ],
-    "Pokémon GO Wild Area 2026: Global Tasks": [
+    "Pokémon GO Wild Area 2026: Global - Steel hour Tasks": [
         {
             "task": "Catch 2 mighty Pokémon",
             "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Scizor",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm212.icon.png"
+                },
                 {
                     "type": "encounter",
                     "name": "Mighty Aggron",
@@ -210,6 +217,13 @@
             "rewards": [
                 {
                     "type": "encounter",
+                    "name": "Magnemite",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm81.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Piplup",
                     "shiny_available": false,
                     "cp_range": null,
@@ -236,6 +250,13 @@
             "rewards": [
                 {
                     "type": "encounter",
+                    "name": "Lucario",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm448.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Duraludon",
                     "shiny_available": false,
                     "cp_range": null,
@@ -251,12 +272,70 @@
                     "name": "Golden Razz Berry",
                     "quantity": 1,
                     "asset_url": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Silver Pinap Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
+                }
+            ]
+        },
+        {
+            "task": "Use a Steel-type Charged Attack in a battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Onix",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm95.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skarmory",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm227.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bronzor",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm436.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win 2 Max Battles",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Metagross",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm376.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Tinkaton",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm959.icon.png"
                 }
             ]
         },
         {
             "task": "Hatch an Egg",
             "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Beldum",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm374.icon.png"
+                },
                 {
                     "type": "encounter",
                     "name": "Bronzor",
@@ -270,6 +349,35 @@
                     "shiny_available": false,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm529.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Great Ball",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 500,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Ultra Ball",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
                 }
             ]
         },
@@ -298,39 +406,234 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.fGALARIAN.icon.png"
                 }
             ]
+        }
+    ],
+    "Pokémon GO Wild Area 2026: Global - Dragon hour Tasks": [
+        {
+            "task": "Catch 10 Dragon-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Charmander",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Trapinch",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm328.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Swablu",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm333.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skrelp",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm690.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 4 different species of Dragon-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Turtonator",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm776.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Duraludon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm884.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 2 mighty Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Alolan Exeggutor",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm103.fALOLA.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Kingdra",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm230.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Haxorus",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm612.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Noivern",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm715.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make an Excellent Throw",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Golden Razz Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Silver Pinap Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
+                }
+            ]
+        },
+        {
+            "task": "Use a Dragon-type Charged Attack in a battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Goomy",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm704.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Jangmo-o",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm782.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Frigibax",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm996.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win 2 raids",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mighty Flygon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm330.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Mighty Goodra",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm706.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Axew",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm610.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Tyrunt",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm696.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Noibat",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm714.icon.png"
+                }
+            ]
         },
         {
             "task": "Spin 5 PokéStops or Gyms",
             "rewards": [
                 {
                     "type": "item",
+                    "name": "Great Ball",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                },
+                {
+                    "type": "item",
                     "name": "Stardust",
                     "quantity": 500,
                     "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Ultra Ball",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
                 }
             ]
         },
         {
-            "task": "Use a Steel-type Charged Attack in a battle",
+            "task": "Power up Dragon-type Pokémon 5 times",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Skarmory",
+                    "name": "Dratini",
                     "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm227.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Win 2 Max Battles",
-            "rewards": [
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
+                },
                 {
                     "type": "encounter",
-                    "name": "Mighty Metagross",
+                    "name": "Gible",
                     "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm376.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm443.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Deino",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm633.icon.png"
                 }
             ]
         }
