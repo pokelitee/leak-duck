@@ -175,36 +175,6 @@
                 ],
                 "features": [
                     {
-                        "name": "Minior (Blue Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_011_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Minior (Green Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_010_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Minior (Indigo Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_012_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Minior (Orange Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_008_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Minior (Red Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_007_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Minior (Violet Core)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_013_uk_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
                         "name": "Minior (Yellow Core)",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_009_uk_n_00000000_f_n.png",
                         "shiny_available": false

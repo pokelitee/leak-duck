@@ -1,38 +1,20 @@
 {
     "3-Star Raids": [
         {
-            "name": "Druddigon",
+            "name": "Modern Jacket Machamp",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm621.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm68.fWILDAREA_2026_01.icon.png",
             "tier": 3,
             "cp_range": {
-                "min": 1487,
-                "max": 1561
+                "min": 1667,
+                "max": 1746
             },
             "boosted_cp_range": {
-                "min": 1859,
-                "max": 1951
+                "min": 2084,
+                "max": 2183
             },
             "types": [
-                "Dragon"
-            ],
-            "is_shadow": false
-        },
-        {
-            "name": "Orthworm",
-            "shiny_available": false,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png",
-            "tier": 3,
-            "cp_range": {
-                "min": 1245,
-                "max": 1313
-            },
-            "boosted_cp_range": {
-                "min": 1557,
-                "max": 1642
-            },
-            "types": [
-                "Steel"
+                "Fighting"
             ],
             "is_shadow": false
         },
@@ -94,40 +76,78 @@
     ],
     "5-Star Raids": [
         {
-            "name": "Zacian (Crowned Sword)",
+            "name": "Zekrom",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fCROWNED_SWORD.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm644.icon.png",
             "tier": 5,
             "cp_range": {
-                "min": 2100,
-                "max": 2188
+                "min": 2217,
+                "max": 2307
             },
             "boosted_cp_range": {
-                "min": 2625,
-                "max": 2735
+                "min": 2771,
+                "max": 2884
             },
             "types": [
-                "Fairy",
-                "Steel"
+                "Dragon",
+                "Electric"
             ],
             "is_shadow": false
         },
         {
-            "name": "Zamazenta (Crowned Shield)",
+            "name": "Kyurem (White)",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fCROWNED_SHIELD.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm646.fWHITE.icon.png",
             "tier": 5,
             "cp_range": {
-                "min": 2100,
-                "max": 2188
+                "min": 1957,
+                "max": 2042
             },
             "boosted_cp_range": {
-                "min": 2625,
-                "max": 2735
+                "min": 2446,
+                "max": 2553
             },
             "types": [
-                "Fighting",
-                "Steel"
+                "Dragon",
+                "Ice"
+            ],
+            "is_shadow": false
+        },
+        {
+            "name": "Reshiram",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm643.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 2217,
+                "max": 2307
+            },
+            "boosted_cp_range": {
+                "min": 2771,
+                "max": 2884
+            },
+            "types": [
+                "Dragon",
+                "Fire"
+            ],
+            "is_shadow": false
+        },
+        {
+            "name": "Kyurem (Black)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm646.fBLACK.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 1957,
+                "max": 2042
+            },
+            "boosted_cp_range": {
+                "min": 2446,
+                "max": 2553
+            },
+            "types": [
+                "Dragon",
+                "Ice"
             ],
             "is_shadow": false
         },

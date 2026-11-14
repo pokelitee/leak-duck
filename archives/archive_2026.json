@@ -2790,6 +2790,42 @@
             "start_time": "2026-11-04T06:00:00",
             "end_time": "2026-11-08T22:00:00",
             "description": "Shadow Tornadus (Incarnate Forme) will appear in five-star Shadow Raids every weekend from November 4, 2026 to November 8, 2026."
+        },
+        {
+            "title": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-november-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Zacian (Crowned Sword)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fCROWNED_SWORD.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zamazenta (Crowned Shield)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fCROWNED_SHIELD.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Zacian (Crowned Sword)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fCROWNED_SWORD.s.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zamazenta (Crowned Shield)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fCROWNED_SHIELD.s.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-09T10:00:00",
+            "end_time": "2026-11-13T20:00:00",
+            "description": "Zacian (Crowned Sword) and Zamazenta (Crowned Shield) will be in five-star raid battles from November 9, 2026 to November 13, 2026, during the Into the Wild event.\nThese raids start at 10:00 a.m. local time on November 9 and end at 8:00 p.m. local time on November 13.\nDefeating Zacian (Crowned Sword) or Zamazenta (Crowned Shield) in raids will earn you Crowned Sword Energy or Crowned Shield Energy, respectively.\nThere will also be Raid Hours from 6:00 p.m. to 7:00 p.m. local time on the following dates:\n- November 9: Zacian (Crowned Sword)\n- November 10: Zamazenta (Crowned Shield)"
         }
     ],
     "Community Day": [
@@ -12060,6 +12096,169 @@
             "start_time": 1794333600,
             "end_time": 1794349800,
             "description": "Unconfirmed Pokémon GO hours: The times shown are based on the Pokémon Night Out event schedule, beginning when doors open. Pokémon GO gameplay hours have not been confirmed, and the event may run at different times.\nCelebrate Pokémon Night Out with special Pokémon GO gameplay for attendees at the venue!\nDate: November 10, 2026 Location: O2 Arena, London, England Night Out event hours: 6:00 p.m. – 10:30 p.m. GMT (unconfirmed for Pokémon GO)\nThe O2 listing gives a doors-open time of 6:00 p.m., and its official calendar lists an end time of 10:30 p.m. The concert’s performance start time is not specified."
+        },
+        {
+            "title": "Into the Wild 2026",
+            "article_url": "https://leekduck.com/events/into-the-wild-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-09-into-the-wild-2026/into-the-wild-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "+1 Candy XL from Max Battles (Trainers level 31+)",
+                    "+1 Candy XL from raids (Trainers level 31+)",
+                    "+1 Candy from Max Battles",
+                    "+1 Candy from raids",
+                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                    "3/4 Max Particle cost for unlocking and powering up Max Moves",
+                    "5,000 additional XP from completed Max Battles",
+                    "5,000 additional XP from completed raids",
+                    "Chance to encounter Shiny Gimmighoul when using a Coin Bag*",
+                    "Chance to encounter Shiny Meltan when opening the Mystery Box*",
+                    "No Remote Raid limit from Saturday, November 14, to Sunday, November 15, 2026",
+                    "Reduced wait time before you can open the Mystery Box again*",
+                    "Remote Raid limit increased to 30 from Monday, November 9, to Friday, November 13, 2026",
+                    "Trainers can receive special event stickers from PokéStops and Gifts"
+                ],
+                "features": [
+                    {
+                        "name": "Meltan",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_808_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Regidrago",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm895.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Aron",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bagon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dratini",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Meowth",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Horsea",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_116_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Magnemite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mareep",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mawile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Noibat",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scyther",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skrelp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_690_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Togedemaru",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm777.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Druddigon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_621_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Orthworm",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zacian (Crowned Sword)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm888.fCROWNED_SWORD.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zamazenta (Crowned Shield)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fCROWNED_SHIELD.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "max-battles": [
+                    {
+                        "name": "Latias",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_380_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Latios",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_381_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Machop",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_066_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ralts",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_280_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Regidrago",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pm895.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Registeel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_379_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "go-pass": [
+                    {
+                        "name": "Meltan",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_808_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-09T10:00:00",
+            "end_time": "2026-11-13T20:00:00",
+            "description": "It’s time to head back Into the Wild for a Steel- and Dragon-type adventure! Regidrago makes its Dynamax debut in five-star Max Battles, Dynamax Meltan debuts in GO Pass: Into the Wild, and Crowned Sword Zacian and Crowned Shield Zamazenta take over five-star raids as Pokémon GO Wild Area 2026 approaches."
         }
     ],
     "PokéStop Showcase": [
