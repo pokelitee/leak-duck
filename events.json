@@ -463,7 +463,7 @@
     ],
     "Max Mondays": [
         {
-            "title": "Max Monday: Pokémon to be announced",
+            "title": "[Canceled] Max Monday",
             "article_url": "https://leekduck.com/events/max-mondays-2026-11-16/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
             "category": "Max Mondays",
@@ -471,7 +471,7 @@
             "is_local_time": true,
             "start_time": "2026-11-16T06:00:00",
             "end_time": "2026-11-16T21:00:00",
-            "description": "The featured Dynamax Pokémon for November 16–23, 2026 has not been announced. Stay tuned for more details.\nThese Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nThe featured Pokémon for Max Monday on November 16, 2026 will be announced later."
+            "description": "There is no Max Monday on November 16, 2026. The Dynamax Trails event is happening instead, so there are no Max Monday-specific bonuses, such as the guaranteed Rare Candy XL.\nAll Dynamax Pokémon that have previously appeared in Pokémon GO may appear in Max Battles during Dynamax Trails, excluding Legendary and Mythical Pokémon:\n- Bulbasaur\n- Charmander\n- Squirtle\n- Caterpie\n- Pikachu\n- Growlithe\n- Abra\n- Machop\n- Gastly\n- Krabby\n- Hitmonlee\n- Hitmonchan\n- Rhyhorn\n- Chansey\n- Electabuzz\n- Magmar\n- Magikarp\n- Eevee\n- Omanyte\n- Kabuto\n- Hoothoot\n- Shuckle\n- Sneasel\n- Hitmontop\n- Ralts\n- Sableye\n- Wailmer\n- Trapinch\n- Feebas\n- Spheal\n- Beldum\n- Combee\n- Pidove\n- Roggenrola\n- Woobat\n- Drilbur\n- Cottonee\n- Darumaka\n- Trubbish\n- Cryogonal\n- Deino\n- Inkay\n- Bounsweet\n- Passimian\n- Drampa\n- Grookey\n- Scorbunny\n- Sobble\n- Skwovet\n- Rookidee\n- Wooloo\n- Toxtricity (Amped Form)\n- Toxtricity (Low Key Form)\n- Sizzlipede\n- Hatenna\n- Falinks\n- Duraludon"
         },
         {
             "title": "Dynamax Espurr during Max Monday",
@@ -750,11 +750,6 @@
                     {
                         "name": "Electabuzz",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_125_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Excadrill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_530_00.png",
                         "shiny_available": true
                     },
                     {
@@ -1048,11 +1043,6 @@
                         "name": "Eternamax Eternatus",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm890.fETERNAMAX.icon.png",
                         "shiny_available": false
-                    },
-                    {
-                        "name": "Excadrill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop_dmax/pokemon_icon_530_00.png",
-                        "shiny_available": true
                     },
                     {
                         "name": "Falinks",

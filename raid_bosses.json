@@ -1,176 +1,79 @@
 {
-    "3-Star Raids": [
+    "1-Star Raids": [
         {
-            "name": "Modern Jacket Machamp",
+            "name": "Alolan Meowth",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm68.fWILDAREA_2026_01.icon.png",
-            "tier": 3,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm52.fALOLA.icon.png",
+            "tier": 1,
             "cp_range": {
-                "min": 1667,
-                "max": 1746
+                "min": 416,
+                "max": 455
             },
             "boosted_cp_range": {
-                "min": 2084,
-                "max": 2183
+                "min": 520,
+                "max": 569
             },
             "types": [
-                "Fighting"
+                "Dark"
             ],
             "is_shadow": false
         },
         {
-            "name": "Shadow Poliwhirl",
+            "name": "Misdreavus",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm61.icon.png",
-            "tier": 3,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm200.icon.png",
+            "tier": 1,
             "cp_range": {
-                "min": 716,
-                "max": 811
+                "min": 1039,
+                "max": 1100
             },
             "boosted_cp_range": {
-                "min": 895,
-                "max": 1013
+                "min": 1298,
+                "max": 1376
             },
             "types": [
-                "Water"
+                "Ghost"
             ],
-            "is_shadow": true
+            "is_shadow": false
         },
         {
-            "name": "Shadow Piloswine",
+            "name": "Galarian Yamask",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm221.icon.png",
-            "tier": 3,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm562.fGALARIAN.icon.png",
+            "tier": 1,
             "cp_range": {
-                "min": 1217,
-                "max": 1340
+                "min": 516,
+                "max": 561
             },
             "boosted_cp_range": {
-                "min": 1521,
-                "max": 1675
+                "min": 646,
+                "max": 701
             },
             "types": [
-                "Ice",
+                "Ground",
+                "Ghost"
+            ],
+            "is_shadow": false
+        },
+        {
+            "name": "Sandygast",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm769.icon.png",
+            "tier": 1,
+            "cp_range": {
+                "min": 655,
+                "max": 705
+            },
+            "boosted_cp_range": {
+                "min": 819,
+                "max": 881
+            },
+            "types": [
+                "Ghost",
                 "Ground"
             ],
-            "is_shadow": true
-        },
-        {
-            "name": "Shadow Prinplup",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm394.icon.png",
-            "tier": 3,
-            "cp_range": {
-                "min": 868,
-                "max": 972
-            },
-            "boosted_cp_range": {
-                "min": 1086,
-                "max": 1215
-            },
-            "types": [
-                "Water"
-            ],
-            "is_shadow": true
-        }
-    ],
-    "5-Star Raids": [
-        {
-            "name": "Zekrom",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm644.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 2217,
-                "max": 2307
-            },
-            "boosted_cp_range": {
-                "min": 2771,
-                "max": 2884
-            },
-            "types": [
-                "Dragon",
-                "Electric"
-            ],
             "is_shadow": false
         },
-        {
-            "name": "Kyurem (White)",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm646.fWHITE.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 1957,
-                "max": 2042
-            },
-            "boosted_cp_range": {
-                "min": 2446,
-                "max": 2553
-            },
-            "types": [
-                "Dragon",
-                "Ice"
-            ],
-            "is_shadow": false
-        },
-        {
-            "name": "Reshiram",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm643.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 2217,
-                "max": 2307
-            },
-            "boosted_cp_range": {
-                "min": 2771,
-                "max": 2884
-            },
-            "types": [
-                "Dragon",
-                "Fire"
-            ],
-            "is_shadow": false
-        },
-        {
-            "name": "Kyurem (Black)",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm646.fBLACK.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 1957,
-                "max": 2042
-            },
-            "boosted_cp_range": {
-                "min": 2446,
-                "max": 2553
-            },
-            "types": [
-                "Dragon",
-                "Ice"
-            ],
-            "is_shadow": false
-        },
-        {
-            "name": "Shadow Tornadus (Incarnate)",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm641.fINCARNATE.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 1762,
-                "max": 1911
-            },
-            "boosted_cp_range": {
-                "min": 2203,
-                "max": 2389
-            },
-            "types": [
-                "Flying"
-            ],
-            "is_shadow": true
-        }
-    ],
-    "1-Star Raids": [
         {
             "name": "Shadow Larvitar",
             "shiny_available": true,
@@ -243,6 +146,195 @@
                 "Rock"
             ],
             "is_shadow": true
+        }
+    ],
+    "3-Star Raids": [
+        {
+            "name": "Alolan Marowak",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm105.fALOLA.icon.png",
+            "tier": 3,
+            "cp_range": {
+                "min": 988,
+                "max": 1048
+            },
+            "boosted_cp_range": {
+                "min": 1235,
+                "max": 1311
+            },
+            "types": [
+                "Fire",
+                "Ghost"
+            ],
+            "is_shadow": false
+        },
+        {
+            "name": "Liepard",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm510.icon.png",
+            "tier": 3,
+            "cp_range": {
+                "min": 993,
+                "max": 1055
+            },
+            "boosted_cp_range": {
+                "min": 1241,
+                "max": 1318
+            },
+            "types": [
+                "Dark"
+            ],
+            "is_shadow": false
+        },
+        {
+            "name": "Golurk",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm623.icon.png",
+            "tier": 3,
+            "cp_range": {
+                "min": 1554,
+                "max": 1630
+            },
+            "boosted_cp_range": {
+                "min": 1943,
+                "max": 2038
+            },
+            "types": [
+                "Ground",
+                "Ghost"
+            ],
+            "is_shadow": false
+        },
+        {
+            "name": "Shadow Poliwhirl",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm61.icon.png",
+            "tier": 3,
+            "cp_range": {
+                "min": 716,
+                "max": 811
+            },
+            "boosted_cp_range": {
+                "min": 895,
+                "max": 1013
+            },
+            "types": [
+                "Water"
+            ],
+            "is_shadow": true
+        },
+        {
+            "name": "Shadow Piloswine",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm221.icon.png",
+            "tier": 3,
+            "cp_range": {
+                "min": 1217,
+                "max": 1340
+            },
+            "boosted_cp_range": {
+                "min": 1521,
+                "max": 1675
+            },
+            "types": [
+                "Ice",
+                "Ground"
+            ],
+            "is_shadow": true
+        },
+        {
+            "name": "Shadow Prinplup",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm394.icon.png",
+            "tier": 3,
+            "cp_range": {
+                "min": 868,
+                "max": 972
+            },
+            "boosted_cp_range": {
+                "min": 1086,
+                "max": 1215
+            },
+            "types": [
+                "Water"
+            ],
+            "is_shadow": true
+        }
+    ],
+    "5-Star Raids": [
+        {
+            "name": "Cresselia",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm488.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 1555,
+                "max": 1633
+            },
+            "boosted_cp_range": {
+                "min": 1944,
+                "max": 2041
+            },
+            "types": [
+                "Psychic"
+            ],
+            "is_shadow": false
+        },
+        {
+            "name": "Darkrai",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm491.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 2048,
+                "max": 2136
+            },
+            "boosted_cp_range": {
+                "min": 2560,
+                "max": 2671
+            },
+            "types": [
+                "Dark"
+            ],
+            "is_shadow": false
+        },
+        {
+            "name": "Shadow Tornadus (Incarnate)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm641.fINCARNATE.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 1762,
+                "max": 1911
+            },
+            "boosted_cp_range": {
+                "min": 2203,
+                "max": 2389
+            },
+            "types": [
+                "Flying"
+            ],
+            "is_shadow": true
+        }
+    ],
+    "Mega Raids": [
+        {
+            "name": "Mega Banette",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 1244,
+                "max": 1313
+            },
+            "boosted_cp_range": {
+                "min": 1555,
+                "max": 1642
+            },
+            "types": [
+                "Ghost"
+            ],
+            "is_shadow": false
         }
     ]
 }
