@@ -459,6 +459,40 @@
             "start_time": "2026-11-06T10:00:00",
             "end_time": "2026-11-15T23:59:00",
             "description": "There will be Timed Research available to Trainers starting Friday, November 6, at 10:00 a.m. to Sunday, November 15, 2026, at 11:59 p.m. local time.\nComplete the Timed Research to encounter Gigantamax Machamp and earn Machop Candy, Machop Candy XL, and Max Particles to help power it up. Timed Research tasks will also award Stardust, Ultra Balls, and more!"
+        },
+        {
+            "title": "Pokémon GO and Duolingo Timed Research",
+            "article_url": "https://leekduck.com/events/duolingo-timed-research-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-17-duolingo-timed-research-2026/duolingo-timed-research-2026.jpg",
+            "category": "Timed Research",
+            "details": {
+                "research": [
+                    {
+                        "name": "Chatot",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_441_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Lucario",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Meowth",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-17T10:00:00",
+            "end_time": "2026-12-31T23:59:00",
+            "description": "Pokémon GO and Duolingo are teaming up! Do at least one Duolingo lesson a day for seven days to earn an offer code for Timed Research in Pokémon GO. Complete the research to earn XP, Stardust, and encounters with Pikachu, Meowth, Chatot, and Lucario that have a Special Background.\nDuo’s Pokémon Party, the limited-time Duolingo quest, starts on Tuesday, November 17, 2026, at 10:00 a.m. JST (Monday, November 16, at 5:00 p.m. PST)."
         }
     ],
     "Max Mondays": [
