@@ -12259,6 +12259,36 @@
             "start_time": "2026-11-09T10:00:00",
             "end_time": "2026-11-13T20:00:00",
             "description": "It’s time to head back Into the Wild for a Steel- and Dragon-type adventure! Regidrago makes its Dynamax debut in five-star Max Battles, Dynamax Meltan debuts in GO Pass: Into the Wild, and Crowned Sword Zacian and Crowned Shield Zamazenta take over five-star raids as Pokémon GO Wild Area 2026 approaches."
+        },
+        {
+            "title": "Minior Showers: Leonids 2026",
+            "article_url": "https://leekduck.com/events/minior-showers-leonids-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Increased Stardust for catching Minior",
+                    "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day"
+                ],
+                "features": [
+                    {
+                        "name": "Minior (Yellow Core)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_009_uk_n_00000000_f_n.png",
+                        "shiny_available": false
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Minior (Meteor Form)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-14T17:00:00",
+            "end_time": "2026-11-19T23:59:00",
+            "description": "Explore by starlight during the Leonids meteor shower for a chance to encounter Minior in Pokémon GO!\nThis Minior Shower runs from November 14, 2026 at 5:00 p.m. to November 19, 2026 at 11:59 p.m. local time."
         }
     ],
     "PokéStop Showcase": [
@@ -14303,6 +14333,35 @@
             "start_time": "2026-11-05T18:00:00",
             "end_time": "2026-11-05T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nNovember 5: The featured Pokémon is Teddiursa wearing a witch hat and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Grookey, Scorbunny, and Sobble Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-11-19/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Grookey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scorbunny",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sobble",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-19T18:00:00",
+            "end_time": "2026-11-19T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nNovember 19: The featured Pokémon are Grookey, Scorbunny, and Sobble and the special bonus is 2× Catch Candy."
         }
     ],
     "Raid Hour": [
