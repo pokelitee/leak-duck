@@ -3419,6 +3419,59 @@
             "start_time": "2026-10-10T14:00:00",
             "end_time": "2026-10-10T17:00:00",
             "description": "Zorua, the Tricky Fox Pokémon, will be featured during October Community Day!"
+        },
+        {
+            "title": "Pawniard Community Day",
+            "article_url": "https://leekduck.com/events/november-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-21-november-communityday2026/pawniard-november-cd-2026.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures*",
+                    "1/4 Egg Hatch Distance",
+                    "2x Catch Candy",
+                    "2x Chance for Trainers level 31 and up to receive Candy XL from catching Pokémon",
+                    "3-hour Incense",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of two for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    {
+                        "name": "Pawniard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Pawniard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Bisharp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_625_00_shiny.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Kingambit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm983.s.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pawniard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00_shiny.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-21T14:00:00",
+            "end_time": "2026-11-21T17:00:00",
+            "description": "Pawniard, the Sharp Blade Pokémon, will be featured during November Community Day!\nThe event takes place on Saturday, November 21, 2026, from 2:00 p.m. to 5:00 p.m. local time."
         }
     ],
     "Event": [
@@ -15907,6 +15960,30 @@
             "start_time": "2026-10-24T14:00:00",
             "end_time": "2026-10-24T17:00:00",
             "description": "The Dynamax Uxie, Mesprit, and Azelf Max Battle Day event will take place on October 24, 2026 from 2 pm to 5 pm local time."
+        },
+        {
+            "title": "Eternamax Eternatus Returns",
+            "article_url": "https://leekduck.com/events/eternamax-eternatus-max-battles-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "8× Max Particles from Power Spots",
+                    "Max Particle collection limit increased to 2,400",
+                    "Power Spots will refresh more frequently"
+                ],
+                "features": [
+                    {
+                        "name": "Eternamax Eternatus",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm890.fETERNAMAX.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-11-21T11:00:00",
+            "end_time": "2026-11-21T14:00:00",
+            "description": "Eternamax Eternatus returns during Dynamax Trails, taking over the majority of Power Spots on November 21, 2026, from 11 am to 2 pm local time."
         }
     ],
     "Research": [
