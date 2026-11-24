@@ -21,9 +21,9 @@
             "updated_at": "2026-11-24T10:58:26Z"
         },
         "raid_bosses.json": {
-            "sha256": "557a9ac4fac2e7494131854addba8bc7a2d544a375ccbf19030d24055c0fffd6",
-            "size": 9420,
-            "updated_at": "2026-11-16T11:26:26Z"
+            "sha256": "f0f85bead15a39aa56c0f90bc2abb4ed36b951bd207a612faa78a2729da28030",
+            "size": 9563,
+            "updated_at": "2026-11-24T21:15:12Z"
         },
         "research_tasks.json": {
             "sha256": "43bca0616156eca41f51c1582d486d5aa2a64233d7ee3e4d5827845bc00e31cf",
