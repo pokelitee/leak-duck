@@ -205,17 +205,17 @@
     ],
     "5-Star Raids": [
         {
-            "name": "Cresselia",
+            "name": "Deoxys (Normal)",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm488.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm386.icon.png",
             "tier": 5,
             "cp_range": {
-                "min": 1555,
-                "max": 1633
+                "min": 1717,
+                "max": 1806
             },
             "boosted_cp_range": {
-                "min": 1944,
-                "max": 2041
+                "min": 2146,
+                "max": 2257
             },
             "types": [
                 "Psychic"
@@ -223,20 +223,56 @@
             "is_shadow": false
         },
         {
-            "name": "Darkrai",
+            "name": "Deoxys (Defense)",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm491.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm386.fDEFENSE.icon.png",
             "tier": 5,
             "cp_range": {
-                "min": 2048,
-                "max": 2136
+                "min": 1228,
+                "max": 1299
             },
             "boosted_cp_range": {
-                "min": 2560,
-                "max": 2671
+                "min": 1535,
+                "max": 1624
             },
             "types": [
-                "Dark"
+                "Psychic"
+            ],
+            "is_shadow": false
+        },
+        {
+            "name": "Deoxys (Attack)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm386.fATTACK.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 1372,
+                "max": 1474
+            },
+            "boosted_cp_range": {
+                "min": 1716,
+                "max": 1842
+            },
+            "types": [
+                "Psychic"
+            ],
+            "is_shadow": false
+        },
+        {
+            "name": "Deoxys (Speed)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm386.fSPEED.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 1568,
+                "max": 1645
+            },
+            "boosted_cp_range": {
+                "min": 1960,
+                "max": 2056
+            },
+            "types": [
+                "Psychic"
             ],
             "is_shadow": false
         },
